@@ -10,6 +10,7 @@
 ## Our project proposal
 
 Subject asistant: https://youtu.be/isviSnnD40g
+
 There are about **126 optional subjects** you can choose from when loading them at the beginning of each semester. This is without a doubt an overwhelming number of options that make it very difficult to decide properly in the short amount of time you must do so.
 On top of that, the [SICEI](https://www.sicei.uady.mx/) platform has some technical and issues that add yet another layer of complexity to an already hard and tedious process. For example, some issues some issues the team encountered while using the platform are:
 - Every time you resize any item (to be able to read the full texts that are usually cut off by other items) it will snap you back to the top of the page, making it very annoying and time consuming to read the full descriptions of every subject and analyze whether you are interested in it or not.
