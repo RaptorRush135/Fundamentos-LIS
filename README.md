@@ -9,9 +9,7 @@
 
 ## Our project proposal
 
-### -Subject asistant-
-
-[![VIDEO](http://img.youtube.com/vi/isviSnnD40g/0.jpg)](http://www.youtube.com/watch?v=isviSnnD40g)
+[![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/SS_Title.png)](http://www.youtube.com/watch?v=isviSnnD40g)
 
 Video: https://youtu.be/isviSnnD40g
 
@@ -29,6 +27,8 @@ On top of that, the [SICEI](https://www.sicei.uady.mx/) platform has some techni
 There are many existing options, and if we don't know how to make good decisions, we would be losing the opportunity to learn something that we may really like or need in the future.
 
 No one wants to choose their non-compulsory subjects wrongly, credits are important, but just as important is our learning.
+
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/Assistant_1.png" width="216" height="201"/>
 
 And that's why this project was born, **Subject Assistant** is an open-source app that has the purpose of aid UADY students to choose their non-compulsory subjects, this based on various data provided by the user such as:
 
