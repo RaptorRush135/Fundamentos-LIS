@@ -54,3 +54,8 @@ Acording to a survey conducted by OnePOll, it is estimated that we waste on aver
 Most people are constantly trying to find some way to reduce the amount of time they waste every day, but the reality is, this is something very challenging to acomplish especially without help. That´s why we believe a tool that can help you achieve this goal is clarly needed.
 
 Time hacker is not a time managing tool, but a tool that recognises the core issues that lead to time waste and gives actionable advise to tackle the bad habbits wich form the foundation of this problem.
+
+---
+
+## Third project proposal - Hans
+
