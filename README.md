@@ -7,7 +7,7 @@
 - Lara Rubio José Luis
 - Palma Rivas Ricardo
 
-## Our project proposal
+## First project proposal:
 
 [![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/SS_Title.png)](http://www.youtube.com/watch?v=isviSnnD40g)
 
@@ -74,7 +74,25 @@ What will help us to develop our greatest potential in the short and long term.
 
 ---
 
-## Four project proposal - Ad astra
+## Four project proposal:
+
+[![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TM_Title.png)](https://youtu.be/sKftwfBs-3Y)
+
+Video: https://youtu.be/sKftwfBs-3Y
+
+It is undeniable that a large part of the demands of current education are based on memorizing large amounts of data, so retaining this information efficiently has become a fundamental attribute for students to have. This information includes things such as: mathematical formulas, historical dates, processes, constants, among many other things.
+
+Studying these (with the aim of memorizing them) is a particularly boring and difficult process, which must be done constantly to keep the memory fresh.
+
+That is why we believe that there are simpler, more entertaining, interactive, and fun ways to learn or memorize all these concepts. Our proposal consists of giving students free access to simple activities and games, this through a software that helps students learn in a much more comfortable and visual way. 
+
+This approach also has other advantages such as that it can automatically track learning and point the areas that need to be practiced and studied more, and even compare this progress with that of their peers.
+
+Likewise, one of its main characteristics is that it is easily customizable by users, that is, they have the option of making activities take on custom themes that they designed themselves.
+
+With this we hope to create a useful tool for all students, and that these concepts remain more easily in their long-term memory, as a result of a more interactive and entertaining learning.
+
 ---
 
-## Five project proposal - ...
+## Five project proposal - Ad astra
+...
