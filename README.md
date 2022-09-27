@@ -45,9 +45,9 @@ All this with the purpose of facilitating this (otherwise long and tedious) proc
 
 ## Second project proposal - Time Hacker
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TimeHackerLogo.png" width="220" height="220"/>
-
 Video: https://youtu.be/sLmjNTBa628
+
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TimeHackerLogo.png" width="220" height="220"/>
 
 Acording to a survey conducted by OnePOll, it is estimated that we waste on average **2 hours every day** doing a whole lot of nothing. Assuming we spend 8 hours a day sleeping and other 4 hours covering our basic needs like eating, getting dressed or going to the bathroom, 2 hours amounts to one sixth of the time we have available for our daily activities.
 
