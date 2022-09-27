@@ -40,3 +40,15 @@ And that's why this project was born, **Subject Assistant** is an open-source ap
 
 An algorithm will process all data and sort all subjects offered starting with the most desirable ones, which will be graphically displayed by the app.
 All this with the purpose of facilitating this (otherwise long and tedious) process for the students and helping them to make informed decisions.
+
+---
+
+## Second project proposal - Time Hacker
+
+Video: https://youtu.be/sLmjNTBa628
+
+Acording to a survey conducted by OnePOll, it is estimated that we waste on average **2 hours every day** doing a whole lot of nothing. Assuming we spend 8 hours a day sleeping and other 4 hours covering our basic needs like eating, getting dressed or going to the bathroom, 2 hours amounts to one sixth of the time we have available for our dayly activities.
+
+Most people are constantly trying to find some way to reduce the amount of time they waste every day, but the reality is, this is something very challenging to acomplish especially without help. That´s why we believe a tool that can help you achieve this goal is clarly needed.
+
+Time hacker is not a time managing tool, but a tool that recognises the core issues that lead to time waste and gives actionable advise to tackle the bad habbits wich form the foundation of this problem.
