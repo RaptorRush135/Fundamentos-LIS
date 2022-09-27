@@ -64,7 +64,17 @@ Video: https://youtu.be/qIUNIKvUdHg
 <img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/HansLogo.png" width="250" height="250"/>
 
 Our life is the result of a set of habits that we develop over the years...
+
+
 Bad habits and stress are present in our university life, however we are not the only ones, this affects everyone equally, generating serious problems for our health as a consequence.
+ 
  
 That is why we created Hans, Hans would help reduce the problem of bad habits and it would help generate good habits, in addition it will give us tools to reduce stress, attacking two problems at the same time.
 What will help us to develop our greatest potential in the short and long term.
+
+---
+
+## Four project proposal - Ad astra
+---
+
+## Five project proposal - ...
