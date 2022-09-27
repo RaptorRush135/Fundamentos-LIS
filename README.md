@@ -49,6 +49,8 @@ Video: https://youtu.be/sLmjNTBa628
 
 Acording to a survey conducted by OnePOll, it is estimated that we waste on average **2 hours every day** doing a whole lot of nothing. Assuming we spend 8 hours a day sleeping and other 4 hours covering our basic needs like eating, getting dressed or going to the bathroom, 2 hours amounts to one sixth of the time we have available for our daily activities.
 
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TimeHackerLogo.png" width="220" height="220"/>
+
 Most people are constantly trying to find some way to reduce the amount of time they waste every day, but the reality is, this is something very challenging to acomplish especially without help. That´s why we believe a tool that can help you achieve this goal is clarly needed.
 
 Time hacker is not a time managing tool, but a tool that recognises the core issues that lead to time waste and gives actionable advise to tackle the bad habbits wich form the foundation of this problem.
