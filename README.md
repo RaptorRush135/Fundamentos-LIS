@@ -61,7 +61,7 @@ Time hacker is not a time managing tool, but a tool that recognises the core iss
 
 Video: https://youtu.be/qIUNIKvUdHg
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/HansLogo.png" width="250" height="250"/>
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/HansLogo.png" width="275" height="275"/>
 
 Our life is the result of a set of habits that we develop over the years...
 
