@@ -1,5 +1,12 @@
 
-## First project proposal:
+# Content:
+1. [Subject Assistant](#first-project-proposal---subject-assistant)
+2. [Time Hacker](#first-project-proposal---subject-assistant)
+3. [Hans](#first-project-proposal---subject-assistant)
+4. [Topic Memorizer](#first-project-proposal---subject-assistant)
+5. [Ad astra](#first-project-proposal---subject-assistant)
+
+## First project proposal - Subject Assistant
 
 [![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/SS_Title.png)](http://www.youtube.com/watch?v=isviSnnD40g)
 
@@ -66,7 +73,7 @@ What will help us to develop our greatest potential in the short and long term.
 
 ---
 
-## Four project proposal:
+## Four project proposal - Topic Memorizer
 
 [![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TM_Title.png)](https://youtu.be/sKftwfBs-3Y)
 
