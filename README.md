@@ -23,7 +23,8 @@ The product’s main objective is to help the user to train and polish the softs
 
 ### Users:
 
-AAA
+We are focused on helping all kind of peolple who wants to learn or improve their softskills. Our main users are student from various 
+semesters that want to have a complete scolar education cause since they will need it in their day to day. 
 
 ### Innovation:
 
