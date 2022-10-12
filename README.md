@@ -19,7 +19,12 @@
 
 ### Description:
 
-The product’s main objective is to help the user to train and polish the softskills they might need due to their line of work. Having as well, the opportunity to check on other softskills that could be useful for them at some point. The user will train the softskills they selected, by completing certain activities, such as riddles and exercises, as well as watching videos related to the softskill they´re training.
+The product’s main objective is to help the user to train and polish the softskills they might need due to their line of work. Having as well, the opportunity to check on other softskills that could be useful for them at some point. The user will train the softskills they selected, by completing certain activities, such as riddles and exercises, as well as watching videos related to the softskill they´re training. 
+
+The project´s reach we have in mind, is based on the assistance we are providing to the user, by helping them develop new softskills or train and polish the ones they already have knowledge of. Besides that, since the project will initially be focusing on English language speakers, the reach will be larger, than starting with the project being on Spanish, and it will also increase the number of potential users we might have in the future.
+
+At the moment, we will be focusing only on two softskills, to begin with, since there are plenty of available softskills we could use, and it would take us a long time to finish the project, time we don’t really have. So, time will be our main limitation while developing the project.
+
 
 ### Users:
 
