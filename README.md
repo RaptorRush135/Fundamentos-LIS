@@ -19,7 +19,7 @@
 
 ### Description:
 
-AAA
+The product’s main objective is to help the user to train and polish the softskills they might need due to their line of work. Having as well, the opportunity to check on other softskills that could be useful for them at some point. The user will train the softskills they selected, by completing certain activities, such as riddles and exercises, as well as watching videos related to the softskill they´re training.
 
 ### Users:
 
