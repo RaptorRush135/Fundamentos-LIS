@@ -6,6 +6,9 @@
 - Hernández Marín Diego
 - Lara Rubio José Luis
 - Palma Rivas Ricardo
+## Project proposals
+
+[Here!](Project%20proposals/README.md)
 
 ## Project - Ad astra
 
