@@ -1,10 +1,10 @@
 
 # Content:
 1. [Subject Assistant](#first-project-proposal---subject-assistant)
-2. [Time Hacker](#first-project-proposal---subject-assistant)
-3. [Hans](#first-project-proposal---subject-assistant)
-4. [Topic Memorizer](#first-project-proposal---subject-assistant)
-5. [Ad astra](#first-project-proposal---subject-assistant)
+2. [Time Hacker](#second-project-proposal---time-hacker)
+3. [Hans](#third-project-proposal---hans)
+4. [Topic Memorizer](#four-project-proposal---topic-memorizer)
+5. [Ad astra](#five-project-proposal---ad-astra)
 
 ## First project proposal - Subject Assistant
 
