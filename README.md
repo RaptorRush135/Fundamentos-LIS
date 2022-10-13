@@ -33,22 +33,29 @@ semesters that want to have a complete scolar education cause since they will ne
 
 ### Innovation:
 
-AAA
+aaa
 ---
 ### Requrimients:
+aaa
 
 ### User story:
-
+aaa
 ### Use case diagram:
 
+aaa
 ---
 
 ### Process description:
 
+aaa
 ### Process managment:
 
+aaa
 ---
-###our preentation video: (link
+
+### our preentation video:(link(
+
+hi
 ---
 
 ### Generic skills
