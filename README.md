@@ -35,24 +35,24 @@ semesters that want to have a complete scolar education cause since they will ne
 
 AAA
 ---
-###Requrimients:
+### Requrimients:
 
-###User story:
+### User story:
 
-###Use case diagram:
+### Use case diagram:
 
 ---
 
-###Process description:
+### Process description:
 
-###Process managment:
+### Process managment:
 
 ---
 ###our preentation video: (link
 ---
 
-###Generic skills
+### Generic skills
 
-###disciplinary skills
+### disciplinary skills
 
 
