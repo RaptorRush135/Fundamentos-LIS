@@ -34,28 +34,41 @@ semesters that want to have a complete scolar education cause since they will ne
 ### Innovation:
 
 aaa
+
 ---
 ### Requrimients:
 aaa
 
 ### User story:
 aaa
+
 ### Use case diagram:
 
 aaa
+
 ---
 
 ### Process description:
 
-aaa
-### Process managment:
+Nos organizamos en base a la metodología SCRUM, existe un Scrum master y un Development team (sin embargo lo bueno de SCRUM es la flexibilidad, por lo cual ambos pueden hacer las actividades del otro)..., 
+Adaptamos actividades de la metodología ágil llamada SCRUM ... esta parte se distingue de manera clara en... otro componte de SCRUM que utilizamos fue el tablero, para eso utilizamos una herramienta llamada Trello (link de nuestro trello:) la cual nos sirvió para facilitar la organizacioón 
 
-aaa
+(Se cuenta con un proceso de desarrollo para producto que describe la organización del equipo, roles/responsabilidades definidas. Incluye la forma en como adaptaron actividades/tareas de alguna metodología ágil. Se distingue de forma clara que utilizan una metodología ágil)
+
+### Process managment:
+las tareas asignada se pueden ver en el trello, sin embargo el monitoreo se encuentra aquí, ya que cada integrante cuenta con su branch...
+Las bitácoras se encuentran en éste mismo GitHub (incluir enlace), en las cuáles podemos observar los
+acuerdos/resolución de conflictos...
+la herramienta de monitoreo utilizada fue github, ya que cada quién tiene su branch y para dar un seguimiento y asignar las tareas utilizamos trello, en el cual pusimos las fechas de inicio y fechas límite de entrega... los productos resultantes se pueden encontrar en éste github...
+
+(Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los
+acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. )
+
 ---
 
-### our preentation video:(link(
+### our preentation video:    
+(link)  
 
-hi
 ---
 
 ### Generic skills
