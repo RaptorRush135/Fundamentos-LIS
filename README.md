@@ -32,13 +32,13 @@ We are focused on helping all kind of peolple who wants to learn or improve thei
 semesters that want to have a complete scolar education cause since they will need it in their day to day. 
 
 
-##-Primary 
+## Primary 
 Students of higher semesters of university.
 
-##-Secondary 
+## Secondary 
 Students of the firsts semesters of university 
 
-##-Potential 
+## Potential 
 All kind of people who wants to learn about softskills.
 
 
