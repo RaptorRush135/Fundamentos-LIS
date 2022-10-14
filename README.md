@@ -59,15 +59,11 @@ Another important part of SCRUM we adopted is the “Daily scrum” which are da
 Finally, we also use a Trello board in which we define and assign the specific activities for every team member, this way everyone can easily check the development status and their assigned tasks at any moment.
 
 ### Process managment:
-La gestión de procesos es éste trabajo implico nos dejo una serie de artefactos, como bien habéamos mencionado, una herramienta que nos sirvió para organizarnos fue trello (https://trello.com/invite/b/JzEzsDt0/82622df015db673c01da3dc87a92871d/our-project-fis), mientras que, lo que nos permitió monitorear que cada integrante cumpla con su parte del trabajo fue GitHub, además, con éste documento podemos observar los valores dados a cada actividad, valores llegados de la forma más objetiva posible, es decir con un acuerdo entre todo el equipo.
-Con los brancch de GitHub podemos observar que cada integrante aportó una parte escencial al proyecto, es decir para monitorear el cumplimiento de sus actividades cada integrante tien su propio branch donde agregó su parte.
 
-Las bitácoras se encuentran en éste mismo GitHub (incluir enlace), en las cuáles podemos observar los
-acuerdos, lo trabajado en cada/resolución de conflictos...
-la herramienta de monitoreo utilizada fue github, ya que cada quién tiene su branch y para dar un seguimiento y asignar las tareas utilizamos trello, en el cual pusimos las fechas de inicio y fechas límite de entrega... los productos resultantes se pueden encontrar en éste github...
+The process management that this work implied left us with a series of artifacts. As we had mentioned, a tool that we should use to organize ourselves was trello ([https://trello.com/invite/b/JzEzsDt0/82622df015db673c01da3dc87a92871d/our-project-fis](https://trello.com/invite/b/JzEzsDt0/82622df015db673c01da3dc87a92871d/our-project-fis)), a tool in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, while GitHub helped us to monitor that each member complies with their part of the work, since with the GitHub branches we can observe that each member contributed an essential part to the project, in addition, with this document we can observe the values given to each activity, values obtained in the most objective way possible, that is, with an agreement between the entire team.
 
-(Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los
-acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. )
+It is worth mentioning that another artifact left by the process was the log, which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
+
 
 ---
 
