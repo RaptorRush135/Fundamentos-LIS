@@ -45,4 +45,8 @@ All kind of people who wants to learn about softskills.
 
 ### Innovation:
 
-AAA
+There are lots of apps focused on softskills, but the only thing they focused on is explaining what softskills are
+and none of them teaches you how to developed them, unlike our project Ad Astra. 
+
+The diference between Ad Astra and other apps is that in our project you can learn through videos, 
+information and different activities.
