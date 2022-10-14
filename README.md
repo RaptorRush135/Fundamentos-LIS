@@ -33,13 +33,13 @@ semesters that want to have a complete scolar education cause since they will ne
 
 
 -Primary 
-Students of higher semesters of university 
+Students of higher semesters of university.
 
 -Secondary 
-Students of the firsts semesters ofrece university 
+Students of the firsts semesters of university 
 
 -Potential 
-All kind of people Who want to learn about softskills.
+All kind of people who wants to learn about softskills.
 
 
 
