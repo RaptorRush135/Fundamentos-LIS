@@ -37,7 +37,7 @@ aaa
 
 ---
 ### Requrimients:
-[Functional and non-functional requirements](https://github.com/RaptorRush135/Fundamentos-LIS/commit/752e54233cd929ec3a95c780c3761cede01dada1)
+[Functional and non-functional requirements](https://github.com/RaptorRush135/Fundamentos-LIS/blob/8c7a9847db25a075993e6eb11bb63a00d9775a1b/Functional%20and%20non-functional%20requirements/Functional%20and%20non-functional%20requirements-%20Ad%20astra.pdf)
 
 ### User story:
 aaa
