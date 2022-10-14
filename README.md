@@ -15,7 +15,7 @@
 ### Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
 
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="250" height="250"/>
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="300" height="300"/>
 
 ### Description:
 
