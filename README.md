@@ -32,13 +32,13 @@ We are focused on helping all kind of people who want to learn or improve their 
 semesters that want to have a complete scholar education by learning skills they will use in their day to day worklife. 
 
 
--Primary 
+- Primary 
 Students of higher semesters of university.
 
--Secondary 
+- Secondary 
 Students of the firsts semesters of university 
 
--Potential 
+- Potential 
 All kind of people who wants to learn about softskills.
 
 
