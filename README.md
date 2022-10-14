@@ -90,7 +90,7 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ---
 
-### our preentation video:    
+### our presentation video:    
 (link)  
 
 ---
