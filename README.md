@@ -31,6 +31,22 @@ At the moment, we will be focusing only on two softskills, to begin with, since 
 We are focused on helping all kind of peolple who wants to learn or improve their softskills. Our main users are student from various 
 semesters that want to have a complete scolar education cause since they will need it in their day to day. 
 
+
+-Primary 
+Students of higher semesters of university.
+
+-Secondary 
+Students of the firsts semesters of university 
+
+-Potential 
+All kind of people who wants to learn about softskills.
+
+
+
 ### Innovation:
 
-AAA
+There are lots of apps focused on softskills, but the only thing they focused on is explaining what softskills are
+and none of them teaches you how to developed them, unlike our project Ad Astra. 
+
+The diference between Ad Astra and other apps is that in our project you can learn through videos, 
+information and different activities.
