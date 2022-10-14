@@ -49,7 +49,6 @@ There are lots of apps focused on softskills, but the only thing they focus on i
 
 The difference between Ad Astra and other apps is that in our project you can learn through videos, information and different activities.
 
-
 ---
 ### Requrimients:
 
@@ -97,6 +96,8 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ### Generic skills
 
-### disciplinary skills
+...
 
+### Disciplinary skills
 
+...
