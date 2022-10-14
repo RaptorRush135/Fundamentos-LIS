@@ -97,7 +97,13 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ### Generic skills
 
-...
+Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly.
+
+We obtained this competence cause at the moment of writing the functional and non-functional requirements, the description of the product and the process, the meetings with our teamwork and the teacher, etc. Among this and other activities, we had to learn how to express ourselves clearly and concisely to avoid misunderstandings and made others understand what we want to communicate. 
+
+Uses ICT in their professional interventions and in their personal life in a pertinent and responsible manner.
+
+We use Information and Communications Technologies (ICTs) at every time of the product development process, from using different types of programs to capture our ideas, making the slides of the presentation, communicating with the teamwork, etc. For example, we used Trello to be able to organize ourselves and divide the respective tasks, also we use GitHub where we could store the repository, and those were just some examples of all the technological tools that we use in our day-to-day to get the job done.
 
 ### Disciplinary skills
 
