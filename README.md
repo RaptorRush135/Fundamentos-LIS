@@ -49,7 +49,7 @@ aaa
 ---
 
 ### Process description:
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Assets/scrum.jpg" width="300" height="500"/>
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Assets/scrum.jpg" width="600" height="300"/>
 
 
 We adopted the SCRUM methodology for the development of our project. This methodology is based on assigning a “Scrum master”, who is the person in charge of managing the time and resources available for the project, and a “Development team”, which is the group of people managed by the Scrum master to develop the product. 
