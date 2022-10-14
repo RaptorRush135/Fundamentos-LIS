@@ -37,7 +37,7 @@ aaa
 
 ---
 ### Requrimients:
-
+[Functional and non-functional requirements](https://github.com/RaptorRush135/Fundamentos-LIS/commit/752e54233cd929ec3a95c780c3761cede01dada1)
 
 ### User story:
 aaa
