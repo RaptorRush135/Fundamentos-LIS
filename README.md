@@ -49,6 +49,8 @@ aaa
 ---
 
 ### Process description:
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Assets/scrum.jpg" width="250" height="250"/>
+
 
 We adopted the SCRUM methodology for the development of our project. This methodology is based on assigning a “Scrum master”, who is the person in charge of managing the time and resources available for the project, and a “Development team”, which is the group of people managed by the Scrum master to develop the product. 
 In our case, the “Scrum master” would be Russel Bonilla Pech, and the “Development team” the rest of the group.
