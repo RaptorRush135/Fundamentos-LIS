@@ -3,7 +3,7 @@
 # Our Team repository-FIS
 
 ## Team:
-[Our personal reflections](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-1/Personal%20reflections)
+[Our personal reflections](/Personal%20reflections)
  ### Scrum master
 - Bonilla Pech Russel Adrian
 
@@ -63,12 +63,11 @@ The difference between Ad Astra and other apps is that in our project you can le
 
 ### User story:
 
-...
+[Here!](/Artifacts/UserStories.pdf)
 
 ### Use case diagram:
 
-
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-1/UseCaseDiagram.pdf)
+[Here!](/Artifacts/UseCaseDiagram.pdf)
 
 ---
 
@@ -95,10 +94,9 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ---
 
-### Our presentation video:    
-(link)  
+### Our presentation video:
 
----
+https://youtu.be/Vq0SvkNYmVc
 
 ### Generic skills:
 
