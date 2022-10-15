@@ -3,7 +3,8 @@
 # Our Team repository-FIS
 
 ## Team:
-- Bonilla Pech Russel Adrian  **(Scrum master)**
+ ### Scrum master
+- Bonilla Pech Russel Adrian
 
 ### Development team:
 - Anaya Alva Monserrat
@@ -11,6 +12,7 @@
 - Hernández Marín Diego
 - Lara Rubio José Luis
 - Palma Rivas Ricardo
+
 ## Project proposals
 
 [Here!](Project%20proposals/README.md)
