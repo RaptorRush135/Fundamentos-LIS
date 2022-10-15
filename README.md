@@ -103,10 +103,10 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ### Disciplinary skills
 
-1. Analize the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:
+**Analize the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:
 
 We obtained this competence through the talks we had as a team to carry out activities, such as the ANIEI vs. UADY comparisons, where we analyzed and compared the areas of knowledge and the subjects found in the curriculum of the software engineering degree. In the same way, we were able to observe and question the disciplinary evolution, and the skills of software engineering through other documents, such as that of the IEEE.
 
-2. Analyze the main methods, techniques, procedures and good practices used in the software requirements, design, coding, testing and maintenance phases, in accordance with the body of knowledge recognized by the discipline:
+**Analyze the main methods, techniques, procedures and good practices used in the software requirements, design, coding, testing and maintenance phases, in accordance with the body of knowledge recognized by the discipline:
 
 This competence was obtained during the development of the project, specifically with the decision to adopt the SCRUM methodology, since thanks to the fact that we chose this methodology we were able to analyze the way in which we were going to develop the project, thus having a better idea of the methods to use, the procedures and the techniques that we will need to carry out.
