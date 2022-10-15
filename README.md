@@ -120,4 +120,4 @@ We obtained this competence through the talks we had as a team to carry out acti
 
 * #### Analyze the main methods, techniques, procedures and good practices used in the software requirements, design, coding, testing and maintenance phases, in accordance with the body of knowledge recognized by the discipline:
 
-This competence was obtained during the development of the project, specifically with the decision to adopt the SCRUM methodology, since thanks to the fact that we chose this methodology we were able to analyze the way in which we were going to develop the project, thus having a better idea of the methods to use, the procedures and the techniques that we will need to carry out.
+This competence was obtained during the development of the project, specifically with the decision to adopt the SCRUM methodology, since thanks to the fact that we chose this methodology, we were able to analyze the way in which we were going to develop the project, thus having a better idea of the methods to use, the procedures and the techniques that we will need to carry out.
