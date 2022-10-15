@@ -61,7 +61,7 @@ The difference between Ad Astra and other apps is that in our project you can le
 
 [Functional and non-functional requirements](/Artifacts/Functional%20and%20non-functional%20requirements.pdf)
 
-### User story:
+### User stories:
 
 [Here!](/Artifacts/UserStories.pdf)
 
