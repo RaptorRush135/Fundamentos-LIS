@@ -3,10 +3,11 @@
 # Our Team repository-FIS
 
 ## Team:
+
  ### Scrum master
 - Bonilla Pech Russel Adrian
 
-### Development team:
+## Development team:
 - Anaya Alva Monserrat
 - Escamilla Poot Juan Emmanuel
 - Hernández Marín Diego
@@ -94,7 +95,6 @@ The process management that this work implied left us with a series of artifacts
 
 It is worth mentioning that another artifact left by the process was the [binacle](https://github.com/RaptorRush135/Fundamentos-LIS/blob/be0bb073da4b7da8471fb930e4d78dee0f1248bf/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
 
-
 ---
 
 ### Our presentation video:    
@@ -104,6 +104,23 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ### Generic skills
 
+Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly.
+
+We obtained this competence cause at the moment of writing the functional and non-functional requirements, the description of the product and the process, the meetings with our teamwork and the teacher, etc. Among this and other activities, we had to learn how to express ourselves clearly and concisely to avoid misunderstandings and made others understand what we want to communicate.
+Uses ICT in their professional interventions and in their personal life in a pertinent and responsible manner.
+
+We use Information and Communications Technologies (ICTs) at every time of the product development process, from using different types of programs to capture our ideas, making the slides of the presentation, communicating with the teamwork, etc. For example, we used Trello to be able to organize ourselves and divide the respective tasks, also we use GitHub where we could store the repository, and those were just some examples of all the technological tools that we use in our day-to-day to get the job done.
+
+### Disciplinary skills
+
+**Analize the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:**
+
+We obtained this competence through the talks we had as a team to carry out activities, such as the ANIEI vs. UADY comparisons, where we analyzed and compared the areas of knowledge and the subjects found in the curriculum of the software engineering degree. In the same way, we were able to observe and question the disciplinary evolution, and the skills of software engineering through other documents, such as that of the IEEE.
+
+**Analyze the main methods, techniques, procedures and good practices used in the software requirements, design, coding, testing and maintenance phases, in accordance with the body of knowledge recognized by the discipline:**
+
+This competence was obtained during the development of the project, specifically with the decision to adopt the SCRUM methodology, since thanks to the fact that we chose this methodology we were able to analyze the way in which we were going to develop the project, thus having a better idea of the methods to use, the procedures and the techniques that we will need to carry out.
+
 #### Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly.
 
 We obtained this competence cause at the moment of writing the functional and non-functional requirements, the description of the product and the process, the meetings with our teamwork and the teacher, etc. Among this and other activities, we had to learn how to express ourselves clearly and concisely to avoid misunderstandings and made others understand what we want to communicate. 
@@ -111,7 +128,3 @@ We obtained this competence cause at the moment of writing the functional and no
 #### Uses ICT in their professional interventions and in their personal life in a pertinent and responsible manner.
 
 We use Information and Communications Technologies (ICTs) at every time of the product development process, from using different types of programs to capture our ideas, making the slides of the presentation, communicating with the teamwork, etc. For example, we used Trello to be able to organize ourselves and divide the respective tasks, also we use GitHub where we could store the repository, and those were just some examples of all the technological tools that we use in our day-to-day to get the job done.
-
-### Disciplinary skills
-
-...
