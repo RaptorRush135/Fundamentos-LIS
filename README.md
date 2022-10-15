@@ -3,7 +3,7 @@
 # Our Team repository-FIS
 
 ## Team:
-
+[Our personal reflections](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-1/Personal%20reflections)
  ### Scrum master
 - Bonilla Pech Russel Adrian
 
