@@ -1,7 +1,8 @@
 # Our Team repository-FIS
 ## Team:
 - Bonilla Pech Russel Adrian  **Scrum master**
-###Development team:
+
+### Development team:
 - Anaya Alva Monserrat
 - Escamilla Poot Juan Emmanuel
 - Hernández Marín Diego
