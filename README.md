@@ -114,7 +114,7 @@ We use Information and Communications Technologies (ICTs) at every time of the p
 
 ### Disciplinary skills
 
-* #### Analize the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:
+* #### Analyze the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:
 
 We obtained this competence through the talks we had as a team to carry out activities, such as the ANIEI vs. UADY comparisons, where we analyzed and compared the areas of knowledge and the subjects found in the curriculum of the software engineering degree. In the same way, we were able to observe and question the disciplinary evolution, and the skills of software engineering through other documents, such as that of the IEEE.
 
