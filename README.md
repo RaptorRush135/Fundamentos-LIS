@@ -1,4 +1,4 @@
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-1/Assets/Ad%20astra-top%20of%20the%20page.png" width="1150" height="270"/>
+<img src="/Assets/Ad%20astra-top%20of%20the%20page.png" width="1150" height="270"/>
 
 # Our Team repository-FIS
 
@@ -22,7 +22,7 @@
 
 ### Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="350" height="350"/>
+<img src="/Assets/AdAstraLogo.jpg" width="350" height="350"/>
 
 ### Description:
 
@@ -59,7 +59,7 @@ The difference between Ad Astra and other apps is that in our project you can le
 ---
 ### Requrimients:
 
-[Functional and non-functional requirements](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Functional%20and%20non-functional%20requirements/Functional%20and%20non-functional%20requirements-%20Ad%20astra.pdf)
+[Functional and non-functional requirements](/Artifacts/Functional%20and%20non-functional%20requirements.pdf)
 
 ### User story:
 
@@ -72,12 +72,12 @@ The difference between Ad Astra and other apps is that in our project you can le
 ---
 
 ### Process description:
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Assets/scrum.jpg" width="600" height="300"/>
+<img src="/Assets/scrum.jpg" width="600" height="300"/>
 
 
 We adopted the SCRUM methodology for the development of our project. 
 
-[Scrum roles](https://github.com/RaptorRush135/Fundamentos-LIS/blob/3dd3a166bb9b5a15a019803c5e7a7b2d6fe797c4/scrum-roles/scrum-roles.md )
+[Scrum roles](/Scrum%20roles/README.md)
 
 
 To start the project, we first defined the “Product backlog”, meaning we made a list of ideas, necessities, etc. which we discussed in a “Sprint planning meeting” where we stablished our “Sprint backlog” which is the group of requirements needed to build a set part of the project in a certain time span (Usually, 4 weeks according to the SCRUM methodology)
@@ -90,7 +90,7 @@ Finally, we also use a Trello board in which we define and assign the specific a
 
 The process management that this work implied left us with a series of artifacts. As we had mentioned, a tool that we should use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), a tool in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, while GitHub helped us to monitor that each member complies with their part of the work, since with the GitHub branches we can observe that each member contributed an essential part to the project, in addition, with this document we can observe the values given to each activity, values obtained in the most objective way possible, that is, with an agreement between the entire team.
 
-It is worth mentioning that another artifact left by the process was the [binacle](https://github.com/RaptorRush135/Fundamentos-LIS/blob/be0bb073da4b7da8471fb930e4d78dee0f1248bf/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
+It is worth mentioning that another artifact left by the process was the [binacle](/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 ---
 
