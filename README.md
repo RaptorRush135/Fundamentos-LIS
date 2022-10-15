@@ -71,8 +71,6 @@ The difference between Ad Astra and other apps is that in our project you can le
 
 [Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-1/UseCaseDiagram.pdf)
 
-...
-
 ---
 
 ### Process description:
