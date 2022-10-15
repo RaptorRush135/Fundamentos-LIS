@@ -17,7 +17,7 @@
 
 [Here!](Project%20proposals/README.md)
 
-## Our roject - Ad astra
+## Our project - Ad astra
 
 ### Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
 
