@@ -1,4 +1,6 @@
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="300" height="300"/>
 # Our Team repository-FIS
+
 ## Team:
 - Bonilla Pech Russel Adrian  **(Scrum master)**
 
@@ -12,7 +14,7 @@
 
 [Here!](Project%20proposals/README.md)
 
-## Project - Ad astra
+## Our roject - Ad astra
 
 ### Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
 
