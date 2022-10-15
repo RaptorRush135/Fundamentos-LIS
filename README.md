@@ -76,12 +76,10 @@ The difference between Ad Astra and other apps is that in our project you can le
 <img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Assets/scrum.jpg" width="600" height="300"/>
 
 
-We adopted the SCRUM methodology for the development of our project. This methodology is based on assigning a “Scrum master”, who is the person in charge of managing the time and resources available for the project, and a “Development team”, which is the group of people managed by the Scrum master to develop the product. 
-In our case, the “Scrum master” would be Russel Bonilla Pech, and the “Development team” the rest of the group.
+We adopted the SCRUM methodology for the development of our project. 
 
-An important characteristic of this methodology is the fact that even though there are roles assigned, it allows for change and variations on the functions performed by the team members if the project requires it.
+[Scrum roles](https://github.com/RaptorRush135/Fundamentos-LIS/blob/3dd3a166bb9b5a15a019803c5e7a7b2d6fe797c4/scrum-roles/scrum-roles.md )
 
-The scrum methodology also allows for a role called “Product owner”. He works with the primary users and the scrum team to make sure the final product is aligned with the requirements and the commercial objectives. Since our project doesn’t have commercial objectives, the role of the “Product owner” isn’t clearly defined, however, the role teacher Edgar Cambranes fulfills, is very similar, because he corrects the mistakes and advises the team on how to better achieve the set objectives.
 
 To start the project, we first defined the “Product backlog”, meaning we made a list of ideas, necessities, etc. which we discussed in a “Sprint planning meeting” where we stablished our “Sprint backlog” which is the group of requirements needed to build a set part of the project in a certain time span (Usually, 4 weeks according to the SCRUM methodology)
 
