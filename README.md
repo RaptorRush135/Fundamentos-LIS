@@ -22,9 +22,7 @@
 
 ### Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
 
-<div style="text-align:center"><img src ="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" /></div>
-
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="300" height="300"/>
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="350" height="350"/>
 
 ### Description:
 
