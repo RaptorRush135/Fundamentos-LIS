@@ -102,7 +102,7 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ---
 
-### Generic skills
+### Generic skills:
 
 * #### Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly:
 
@@ -112,7 +112,7 @@ We obtained this competence cause at the moment of writing the functional and no
 
 We use Information and Communications Technologies (ICTs) at every time of the product development process, from using different types of programs to capture our ideas, making the slides of the presentation, communicating with the teamwork, etc. For example, we used Trello to be able to organize ourselves and divide the respective tasks, also we use GitHub where we could store the repository, and those were just some examples of all the technological tools that we use in our day-to-day to get the job done.
 
-### Disciplinary skills
+### Disciplinary skills:
 
 * #### Analyze the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:
 
