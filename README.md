@@ -14,7 +14,7 @@
 )
 
 ### Development team:
-- Anaya Alva Monserrat[Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
+- [Anaya Alva Monserrat](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Monse1011) 
 - Escamilla Poot Juan Emmanuel [Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
 - [Hernández Marín Diego](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Mugy628)
 - [Lara Rubio José Luis](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=JoseLuisLara) 
