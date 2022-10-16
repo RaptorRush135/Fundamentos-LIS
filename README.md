@@ -10,7 +10,8 @@
 [Our personal reflections](/Personal%20reflections)
 
 ### Scrum master:
-- Bonilla Pech Russel Adrian
+- [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp
+)
 
 ### Development team:
 - Anaya Alva Monserrat
