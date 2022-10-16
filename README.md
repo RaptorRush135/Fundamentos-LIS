@@ -99,7 +99,7 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ---
 
-### Our presentation video:
+### Our presentation video (delivery 1):
 
 https://youtu.be/Vq0SvkNYmVc
 
