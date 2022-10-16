@@ -18,8 +18,7 @@
 - Escamilla Poot Juan Emmanuel
 - Hernández Marín Diego
 - Lara Rubio José Luis
-- Palma Rivas Ricardo
-
+- [Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
 ## Project proposals
 
 [Here!](Project%20proposals/README.md)
