@@ -7,7 +7,7 @@
 ...
 
 ## Team:
-[Our personal reflections- unit](/https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
+[Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
 
 ### Scrum master:
 - [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp
