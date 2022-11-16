@@ -23,7 +23,7 @@
 
 ### Product evoution:
 
-
+leer la rúbrica que dejó el profe:), podemos poner por ejemplo que hemos comenzado a utilizar los sprints y estamos tratando de ser ágiles, los cambios hechos, ajustes de la primera a la segunda entrega, etc....
 
 ---
 
@@ -46,22 +46,6 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 agregar las nuevas historias de usuario con los criterios de aceptación
 
 ---
-
-### Design:
-
-#### Prototypes:
-
-agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
-
-#### ¿corresponde con los requerimientos? ¿por qué?:
-por ejemplo podemos poner que nos vasamos en las historias de usuario para elaborar determinados elementos del prototipo (especificarlos), etc...
-
-#### validación de las interfaces con el cliente / usuarios:
-
-
-
----
-
 ### Sprints:
 (falta agregar las carpetas de los md de cada sprint)
 [Sprint 1](...)
@@ -79,6 +63,22 @@ The process management that this work implied left us with a series of artifacts
 It is worth mentioning that another artifact left by the process was the [binacle](/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 ---
+
+### Design:
+
+#### Prototypes:
+
+agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
+
+#### ¿corresponde con los requerimientos? ¿por qué?:
+por ejemplo podemos poner que nos vasamos en las historias de usuario para elaborar determinados elementos del prototipo (especificarlos), etc...
+
+#### validación de las interfaces con el cliente / usuarios:
+
+
+
+---
+
 
 ### Our presentation video (delivery 2):
 
