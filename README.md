@@ -23,8 +23,8 @@
 
 ### Product evoution:
 
-In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later, having our products´ wireframe, the next we need to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
-Finally, we did different tests with users to check how they were interacting with the product prototype and to know if we had to change something about the interface or the wording of the activities.
+In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
+Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
 
 
 ### Requeriments:
@@ -71,8 +71,9 @@ It is worth mentioning that another artifact left by the process was the [binacl
 agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
 
 #### ¿corresponde con los requerimientos? ¿por qué?:
-For the design of the product, we have some requirements which are reflected in the creation of the prototype. First, after entering the application, any user can choose between any soft skill they wish to develop, in this case, we have two: creativity and decision-making, and even when entering one of the softkills, the list of activities for each skill will appear.
-Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, to know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
+
+For the design of the product, we have some requirements which are reflected in the creation of the prototype. First, any user after entering the application can choose between any available soft skills they wish to develop, in this case, we have two: creativity and decision-making. And when they choose one of the soft skills, the list of activities for each skill will appear.
+Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, so they can know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
 
 
 #### validación de las interfaces con el cliente / usuarios:
