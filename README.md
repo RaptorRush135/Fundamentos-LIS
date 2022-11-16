@@ -43,7 +43,7 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 ##### User stories now:
 
-agregar las nuevas historias de usuario con los criterios de aceptación
+[Here!](Artifacts/User stories.pdf)
 
 ---
 ### Sprints:
