@@ -23,9 +23,9 @@
 
 ### Product evoution:
 
-leer la rúbrica que dejó el profe:), podemos poner por ejemplo que hemos comenzado a utilizar los sprints y estamos tratando de ser ágiles, los cambios hechos, ajustes de la primera a la segunda entrega, etc....
+In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later, having our products´ wireframe, the next we need to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
+Finally, we did different tests with users to check how they were interacting with the product prototype and to know if we had to change something about the interface or the wording of the activities.
 
----
 
 ### Requeriments:
 
@@ -71,7 +71,9 @@ It is worth mentioning that another artifact left by the process was the [binacl
 agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
 
 #### ¿corresponde con los requerimientos? ¿por qué?:
-por ejemplo podemos poner que nos vasamos en las historias de usuario para elaborar determinados elementos del prototipo (especificarlos), etc...
+For the design of the product, we have some requirements which are reflected in the creation of the prototype. First, after entering the application, any user can choose between any soft skill they wish to develop, in this case, we have two: creativity and decision-making, and even when entering one of the softkills, the list of activities for each skill will appear.
+Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, to know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
+
 
 #### validación de las interfaces con el cliente / usuarios:
 
@@ -84,7 +86,14 @@ por ejemplo podemos poner que nos vasamos en las historias de usuario para elabo
 
 
 ### Generic skills:
-agregar
+#### -Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly
+Communication is extremely important in our day-to-day and we obtained this competence while restructuring and refining the requirements, also in the meetings between the development team and the scrum master, as well while creating the work material for the soft skills, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
+#### -Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner
+For this second delivery, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
+But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
+#### -Make decisions in your professional and personal practice, responsibly.
+We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
+
 
 ### Disciplinary skills:
 agregar
