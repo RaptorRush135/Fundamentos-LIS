@@ -2,9 +2,9 @@
 
 # Our Team repository-FIS
 
-## First review presentation:
+## Second review presentation:
 
-[Here!](Artifacts/Presentation-E1.pdf)
+...
 
 ## Team:
 [Our personal reflections](/Personal%20reflections)
