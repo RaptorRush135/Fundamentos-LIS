@@ -8,7 +8,7 @@
 
 ## First project proposal - Subject Assistant
 
-[![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/SS_Title.png)](http://www.youtube.com/watch?v=isviSnnD40g)
+[![VIDEO](/Assets/SS_Title.png)](http://www.youtube.com/watch?v=isviSnnD40g)
 
 Video: https://youtu.be/isviSnnD40g
 
@@ -27,7 +27,7 @@ There are many existing options, and if we don't know how to make good decisions
 
 No one wants to choose their non-compulsory subjects wrongly, credits are important, but just as important is our learning.
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/Assistant_1.png" width="216" height="201"/>
+<img src="/Assets/Assistant_1.png" width="216" height="201"/>
 
 And that's why this project was born, **Subject Assistant** is an open-source app that has the purpose of aid UADY students to choose their non-compulsory subjects, this based on various data provided by the user such as:
 
@@ -46,7 +46,7 @@ All this with the purpose of facilitating this (otherwise long and tedious) proc
 
 Video: https://youtu.be/sLmjNTBa628
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TimeHackerLogo.png" width="220" height="220"/>
+<img src="/Assets/TimeHackerLogo.png" width="220" height="220"/>
 
 Acording to a survey conducted by OnePOll, it is estimated that we waste on average **2 hours every day** doing a whole lot of nothing. Assuming we spend 8 hours a day sleeping and other 4 hours covering our basic needs like eating, getting dressed or going to the bathroom, 2 hours amounts to one sixth of the time we have available for our daily activities.
 
@@ -60,7 +60,7 @@ Time hacker is not a time managing tool, but a tool that recognises the core iss
 
 Video: https://youtu.be/qIUNIKvUdHg
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/HansLogo.png" width="275" height="275"/>
+<img src="/Assets/HansLogo.png" width="275" height="275"/>
 
 Our life is the result of a set of habits that we develop over the years...
 
@@ -75,7 +75,7 @@ What will help us to develop our greatest potential in the short and long term.
 
 ## Four project proposal - Topic Memorizer
 
-[![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TM_Title.png)](https://youtu.be/sKftwfBs-3Y)
+[![VIDEO](/Assets/TM_Title.png)](https://youtu.be/sKftwfBs-3Y)
 
 Video: https://youtu.be/sKftwfBs-3Y
 
@@ -98,7 +98,7 @@ With this we hope to create a useful tool for all students, and that these conce
 Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
 
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="250" height="250"/>
+<img src="/Assets/AdAstraLogo.jpg" width="250" height="250"/>
 
 New Challenges and problems always arise in the field of work and if we don't have the necessary softskills we will not be able to do a good job either when communicating with our colleagues or when we trying to find a quick solution, even solving problems beatween our teams.
 
