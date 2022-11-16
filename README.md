@@ -2,12 +2,12 @@
 
 # Our Team repository-FIS
 
-## First review presentation:
+## Second review presentation:
 
-[Here!](Artifacts/Presentation-E1.pdf)
+...
 
 ## Team:
-[Our personal reflections](/Personal%20reflections)
+[Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
 
 ### Scrum master:
 - [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp
