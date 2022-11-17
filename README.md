@@ -10,8 +10,7 @@
 [Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
 
 ### Scrum master:
-- [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp
-)
+- [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp)
 
 ### Development team:
 - [Anaya Alva Monserrat](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Monse1011) 
@@ -25,7 +24,6 @@
 
 In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
 Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
-
 
 ### Requeriments:
 
@@ -63,6 +61,9 @@ The process management that this work implied left us with a series of artifacts
 It is worth mentioning that another artifact left by the process was the [binacle](/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 ---
+### Sprints:
+(falta agregar las carpetas de los md de cada sprint)
+[Sprint 1](...)
 
 ### Design:
 
@@ -94,7 +95,6 @@ For this second delivery, we continue using Trello to be able to organize oursel
 But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
 #### -Make decisions in your professional and personal practice, responsibly.
 We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
-
 
 ### Disciplinary skills:
 agregar
