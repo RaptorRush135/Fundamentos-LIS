@@ -39,7 +39,7 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 ##### User stories before:
 
-[Here!](/Artifacts/UserStories.pdf)
+[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/User%20stories.pdf)
 
 ##### User stories now:
 
