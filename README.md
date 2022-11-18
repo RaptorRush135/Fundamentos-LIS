@@ -97,4 +97,9 @@ But unlike the last installment, we learned to use Figma to be able to translate
 We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
 
 ### Disciplinary skills:
-agregar
+
+  •	**Select the Software Life Cycle Model at the beginning of a project, based on the characteristics of the development team, the client, and the problem.**
+
+This competence was obtained no long after the first delivery of the project, after we analyzed and compared the different life cycle models, we went on and selected the prototype model. This model was the one we considered to be the most suitable for our project, since it´s currently being developed as a mobile application, working with prototypes will benefit the development team, as well as the client.
+
+We also had to prepare an exposition about the prototype model, including and example of how it was used during the development of a project. Doing this helped us to better understand the model we choose and made us realize that it was the model that would best suit our project.
