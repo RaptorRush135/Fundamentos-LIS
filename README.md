@@ -141,15 +141,18 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ### Generic skills:
 
-  •	**Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly
-Communication is extremely important in our day-to-day and we obtained this competence while restructuring and refining the requirements, also in the meetings between the development team and the scrum master, as well while creating the work material for the soft skills, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.**
+  •	**Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly**
+  
+Communication is extremely important in our day-to-day and we obtained this competence while restructuring and refining the requirements, also in the meetings between the development team and the scrum master, as well while creating the work material for the soft skills, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
 
-  •	**Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner
+  •	**Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner.**
+  
 For this second delivery, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
-But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.**
+But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
 
-  •	**Make decisions in your professional and personal practice, responsibly.
-We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.**
+  •	**Make decisions in your professional and personal practice, responsibly.**
+  
+We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
 
 ### Disciplinary skills:
 
