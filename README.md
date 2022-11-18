@@ -52,14 +52,13 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-(falta agregar las carpetas de los md de cada sprint)
 [Sprint 1](...)
 
 [Sprint 2](...)
 
-[Sprint 3](...)
+[Sprint 3 y 4](...)
 
-[Sprint 4](...)
+[Sprint 5](...)
 
 ### Process managment:
 
@@ -74,9 +73,6 @@ It is worth mentioning that another artifact left by the process was the [binacl
 ### Sprints:
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-(falta agregar las carpetas de los md de cada sprint)
-[Sprint 1](...)
 
 ### Design:
 
