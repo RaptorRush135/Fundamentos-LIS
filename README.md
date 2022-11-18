@@ -45,7 +45,7 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 ---
 ### Sprints:
-<img src="https://wac-cdn.atlassian.com/dam/jcr:7af87fb7-1d9d-40de-910b-852ad8fe1825/scrum@2x.png" width="1100" height="240"/>
+<img src="https://wac-cdn.atlassian.com/dam/jcr:7af87fb7-1d9d-40de-910b-852ad8fe1825/scrum@2x.png" width="500" height="200"/>
 
 [Sprint 1](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Sprints/sprint1.md)
 
