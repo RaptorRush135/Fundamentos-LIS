@@ -48,9 +48,9 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 [Sprint 1](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Sprints/sprint1.md)
 
-[Sprint 2](...)
+[Sprint 2](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Sprints/sprint2.md)
 
-[Sprint 3 y 4](...)
+[Sprint 3 y 4](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Sprints/sprint3y4.md)
 
 [Sprint 5](...)
 
