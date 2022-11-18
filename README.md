@@ -1,119 +1,126 @@
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-1/Assets/Ad%20astra-top%20of%20the%20page.png" width="1150" height="270"/>
+<img src="/Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
 
 # Our Team repository-FIS
 
+## Second review presentation:
+
+...
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 ## Team:
-[Our personal reflections](/Personal%20reflections)
- ### Scrum master
-- Bonilla Pech Russel Adrian
+[Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
+
+### Scrum master:
+- [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp)
 
 ### Development team:
-- Anaya Alva Monserrat
-- Escamilla Poot Juan Emmanuel
-- Hernández Marín Diego
-- Lara Rubio José Luis
-- Palma Rivas Ricardo
-
-## Project proposals
-
-[Here!](Project%20proposals/README.md)
-
-## Our project - Ad astra
-
-### Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
-
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="350" height="350"/>
-
-### Description:
-
-The product’s main objective is to help the user to train and polish the softskills they might need due to their line of work. Having as well, the opportunity to check on other softskills that could be useful for them at some point. The user will train the softskills they selected, by completing certain activities, such as riddles and exercises, as well as watching videos related to the softskill they´re training. 
-
-The project´s reach we have in mind, is based on the assistance we are providing to the user, by helping them develop new softskills or train and polish the ones they already have knowledge of. Besides that, since the project will initially be focusing on English language speakers, the reach will be larger, than starting with the project being on Spanish, and it will also increase the number of potential users we might have in the future.
-
-At the moment, we will be focusing only on two softskills, to begin with, since there are plenty of available softskills we could use, and it would take us a long time to finish the project, time we don’t really have. So, time will be our main limitation while developing the project.
+- [Anaya Alva Monserrat](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Monse1011) 
+- [Escamilla Poot Juan Emmanuel](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=CaballeroEscamilla) 
+- [Hernández Marín Diego](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Mugy628)
+- [Lara Rubio José Luis](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=JoseLuisLara) 
+- [Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
 
 
-### Users:
+### Product evolution:
 
-We are focused on helping all kind of people who want to learn or improve their softskills. Our main users are students from various 
-semesters that want to have a complete scholar education by learning skills they will use in their day to day worklife. 
+In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
+Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
 
+### Requeriments:
 
-- Primary 
-Students of higher semesters of university.
+#### Requeriments evolution:
 
-- Secondary 
-Students of the firsts semesters of university 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-- Potential 
-All kind of people who wants to learn about softskills.
+Puedes hacer una comparación entre los requerimientos así cóm justificar el motivo de cambio, (por cuestiones de tiempo, porque elegimos los más esenciales, etc...)
 
+#### Refinement of artifacts:
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-### Innovation:
+podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos los diagramas de casos de uso e hicimos algunos cambios en las h. de usuario de acuerdo a nuestros requerimientos.....
 
-There are lots of apps focused on softskills, but the only thing they focus on is explaining what softskills are and none of them teach you how to develop them, unlike our project Ad Astra. 
+##### User stories before:
 
-The difference between Ad Astra and other apps is that in our project you can learn through videos, information and different activities.
+[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/b98805fc4707aebe66709528adbdc0f1d2943b02/Artifacts/UserStories.pdf)
+
+##### User stories now:
+
+[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/ec0417382d2c75e2c79c122600c67ee4553dc615/Artifacts/User%20stories.pdf)
 
 ---
-### Requrimients:
+### Sprints:
 
-[Functional and non-functional requirements](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Functional%20and%20non-functional%20requirements/Functional%20and%20non-functional%20requirements-%20Ad%20astra.pdf)
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-### User story:
+(falta agregar las carpetas de los md de cada sprint)
+[Sprint 1](...)
 
-[Here!](/Artifacts/UserStories.pdf)
+[Sprint 2](...)
 
-### Use case diagram:
+[Sprint 3](...)
 
-[Here!](/Artifacts/UseCaseDiagram.pdf)
-
----
-
-### Process description:
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Assets/scrum.jpg" width="600" height="300"/>
-
-
-We adopted the SCRUM methodology for the development of our project. 
-
-[Scrum roles](https://github.com/RaptorRush135/Fundamentos-LIS/blob/3dd3a166bb9b5a15a019803c5e7a7b2d6fe797c4/scrum-roles/scrum-roles.md )
-
-
-To start the project, we first defined the “Product backlog”, meaning we made a list of ideas, necessities, etc. which we discussed in a “Sprint planning meeting” where we stablished our “Sprint backlog” which is the group of requirements needed to build a set part of the project in a certain time span (Usually, 4 weeks according to the SCRUM methodology)
-
-Another important part of SCRUM we adopted is the “Daily scrum” which are daily meetings to solve any organizational issues and get up to date on the work being done. The only difference being we hold the meetings only twice a week (one with the teacher and one without him). To speed up the process we write down on a binnacle the previously done activities, the problems that came up and what we plan on working on next.
-
-Finally, we also use a Trello board in which we define and assign the specific activities for every team member, this way everyone can easily check the development status and their assigned tasks at any moment.
+[Sprint 4](...)
 
 ### Process managment:
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+me voy a apoyar de esto, pero agregaré cambios significativos
 The process management that this work implied left us with a series of artifacts. As we had mentioned, a tool that we should use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), a tool in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, while GitHub helped us to monitor that each member complies with their part of the work, since with the GitHub branches we can observe that each member contributed an essential part to the project, in addition, with this document we can observe the values given to each activity, values obtained in the most objective way possible, that is, with an agreement between the entire team.
 
-It is worth mentioning that another artifact left by the process was the [binacle](https://github.com/RaptorRush135/Fundamentos-LIS/blob/be0bb073da4b7da8471fb930e4d78dee0f1248bf/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
+It is worth mentioning that another artifact left by the process was the [binacle](/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
+
+---
+### Sprints:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+(falta agregar las carpetas de los md de cada sprint)
+[Sprint 1](...)
+
+### Design:
+
+#### Prototypes:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+#### ¿corresponde con los requerimientos? ¿por qué?:
+
+For the design of the product, we have some requirements which are reflected in the creation of the prototype. First, any user after entering the application can choose between any available soft skills they wish to develop, in this case, we have two: creativity and decision-making. And when they choose one of the soft skills, the list of activities for each skill will appear.
+Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, so they can know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
+
+
+#### validación de las interfaces con el cliente / usuarios:
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ---
 
-### Our presentation video:
 
-https://youtu.be/Vq0SvkNYmVc
+### Our presentation video (delivery 2):
+
 
 ### Generic skills:
-
-* #### Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly:
-
-We obtained this competence cause at the moment of writing the functional and non-functional requirements, the description of the product and the process, the meetings with our teamwork and the teacher, etc. Among this and other activities, we had to learn how to express ourselves clearly and concisely to avoid misunderstandings and made others understand what we want to communicate. 
-
-* #### Uses ICT in their professional interventions and in their personal life in a pertinent and responsible manner:
-
-We use Information and Communications Technologies (ICTs) at every time of the product development process, from using different types of programs to capture our ideas, making the slides of the presentation, communicating with the teamwork, etc. For example, we used Trello to be able to organize ourselves and divide the respective tasks, also we use GitHub where we could store the repository, and those were just some examples of all the technological tools that we use in our day-to-day to get the job done.
+#### -Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly
+Communication is extremely important in our day-to-day and we obtained this competence while restructuring and refining the requirements, also in the meetings between the development team and the scrum master, as well while creating the work material for the soft skills, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
+#### -Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner
+For this second delivery, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
+But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
+#### -Make decisions in your professional and personal practice, responsibly.
+We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
 
 ### Disciplinary skills:
 
-* #### Analyze the disciplinary evolution of Software Engineering, as well as the characteristics of the professional linked to it, according to the theoretical framework and the curricular models of the discipline:
+  •	**Select the Software Life Cycle Model at the beginning of a project, based on the characteristics of the development team, the client, and the problem.**
 
-We obtained this competence through the talks we had as a team to carry out activities, such as the ANIEI vs. UADY comparisons, where we analyzed and compared the areas of knowledge and the subjects found in the curriculum of the software engineering degree. In the same way, we were able to observe and question the disciplinary evolution, and the skills of software engineering through other documents, such as that of the IEEE.
+This competence was obtained no long after the first delivery of the project, after we analyzed and compared the different life cycle models, we went on and selected the prototype model. This model was the one we considered to be the most suitable for our project, since it´s currently being developed as a mobile application, working with prototypes will benefit the development team, as well as the client.
 
-* #### Analyze the main methods, techniques, procedures and good practices used in the software requirements, design, coding, testing and maintenance phases, in accordance with the body of knowledge recognized by the discipline:
-
-This competence was obtained during the development of the project, specifically with the decision to adopt the SCRUM methodology, since thanks to the fact that we chose this methodology, we were able to analyze the way in which we were going to develop the project, thus having a better idea of the methods to use, the procedures and the techniques that we will need to carry out.
+We also had to prepare an exposition about the prototype model, including and example of how it was used during the development of a project. Doing this helped us to better understand the model we choose and made us realize that it was the model that would best suit our project.
