@@ -101,9 +101,9 @@ The prototype of the medium-fidelity interface (made on the Figma) was presented
 
 * Simulation of specific tasks to allow a better validation of the interface:
 
-1. Users were told to navigate from the app home to a certain activity, for example, “Go to Creativity Skill Activity #3”. This to validate that the interface is intuitive and easily understood by users who have never had contact with the app.
+1. Users were told to navigate from the app home to a certain activity, for example, “Go activity number 3 of the Creativity skill”. This to validate that the interface is intuitive and easily understood by users who have never had contact with the app.
 
-2. Users were instructed to follow a list of slightly more complex navigation instructions, for example, “Go to decision making skill activity number 2, mark this as completed, using the navigation arrows go to the activity number 5 of this same skill, using the home button go to the skill selection menu, finally go to the first activity of the creativity skill and mark it as completed”. This is to verify that users understand and are easily orient themselves in the application menus.
+2. Users were instructed to follow a list of slightly more complex navigation instructions, for example, “Go activity number 2 of the decision-making skill, mark this as completed, using the navigation arrows go to the activity number 5 of this same skill, using the home button go to the skill selection menu, finally go to the first activity of the creativity skill and mark it as completed”. This is to verify that users understand and are easily orient themselves in the application menus.
 
 3. Users were instructed to freely explore the application and further analyze the content of the activities, then they were asked if the wording seemed clear and they fully understood what would be done in the activities.
 
