@@ -66,10 +66,6 @@ The last artifact of the management of the process was the [binacle from this se
 
 
 ---
-### Sprints:
-(falta agregar las carpetas de los md de cada sprint)
-[Sprint 1](...)
-
 ### Design:
 
 #### Prototypes:
