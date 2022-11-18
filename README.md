@@ -46,7 +46,7 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 ---
 ### Sprints:
 
-[Sprint 1](...)
+[Sprint 1](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Sprints/sprint1.md)
 
 [Sprint 2](...)
 
