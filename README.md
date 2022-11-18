@@ -134,7 +134,6 @@ The users found the content of the activities understandable and interesting, an
 
 ---
 
-
 ### Our presentation video (increment 2):
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -147,8 +146,8 @@ Communication is extremely important in our day-to-day and we obtained this comp
 
   •	**Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner.**
   
-For this second delivery, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
-But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
+For this second increment, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
+But unlike the last increment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
 
   •	**Make decisions in your professional and personal practice, responsibly.**
   
