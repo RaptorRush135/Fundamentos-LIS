@@ -4,9 +4,7 @@
 
 ## Second review presentation:
 
-...
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[Here!](Artifacts/Presentation-E2.pdf)
 
 ## Team:
 [Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
@@ -136,7 +134,7 @@ The users found the content of the activities understandable and interesting, an
 
 ### Our presentation video (increment 2):
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+https://youtu.be/ScpYfEhYVhw
 
 ### Generic skills:
 
