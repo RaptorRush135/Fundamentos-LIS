@@ -1,8 +1,9 @@
+##Sprint 2
 <img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Artifacts/sprint2.png" width="950" height="550"/>
 
-Begin: 30/10/2022 
+**Begin:** 30/10/2022 
 
-Ended: 02/11/2022 
+**Ended:** 02/11/2022 
 
 As soon as we finished with the first sprint, we started with the second one, this time we took three user stories to work on them in the same sprint, it seemed to be risky, but for reasons of time it was the most prudent thing to do, also some user stories were related to each other (progress recognition and progress saving), so it benefited us a lot.
 
