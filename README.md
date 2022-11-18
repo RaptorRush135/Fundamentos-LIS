@@ -43,11 +43,11 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 ##### User stories before:
 
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/b98805fc4707aebe66709528adbdc0f1d2943b02/Artifacts/UserStories.pdf)
+[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/UserStories%20OLD.pdf)
 
 ##### User stories now:
 
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/ec0417382d2c75e2c79c122600c67ee4553dc615/Artifacts/User%20stories.pdf)
+[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/User%20stories%20NEW.pdf)
 
 ---
 ### Sprints:
