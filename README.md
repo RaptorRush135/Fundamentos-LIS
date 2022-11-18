@@ -6,6 +6,8 @@
 
 ...
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 ## Team:
 [Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
 
@@ -20,7 +22,7 @@
 - [Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
 
 
-### Product evoution:
+### Product evolution:
 
 In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
 Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
@@ -29,9 +31,13 @@ Finally, we did a test with different users to check out how they interact with 
 
 #### Requeriments evolution:
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 Puedes hacer una comparación entre los requerimientos así cóm justificar el motivo de cambio, (por cuestiones de tiempo, porque elegimos los más esenciales, etc...)
 
 #### Refinement of artifacts:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos los diagramas de casos de uso e hicimos algunos cambios en las h. de usuario de acuerdo a nuestros requerimientos.....
 
@@ -45,6 +51,9 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 ---
 ### Sprints:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 (falta agregar las carpetas de los md de cada sprint)
 [Sprint 1](...)
 
@@ -55,6 +64,9 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 [Sprint 4](...)
 
 ### Process managment:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 me voy a apoyar de esto, pero agregaré cambios significativos
 The process management that this work implied left us with a series of artifacts. As we had mentioned, a tool that we should use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), a tool in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, while GitHub helped us to monitor that each member complies with their part of the work, since with the GitHub branches we can observe that each member contributed an essential part to the project, in addition, with this document we can observe the values given to each activity, values obtained in the most objective way possible, that is, with an agreement between the entire team.
 
@@ -62,6 +74,9 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 ---
 ### Sprints:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 (falta agregar las carpetas de los md de cada sprint)
 [Sprint 1](...)
 
@@ -69,7 +84,12 @@ It is worth mentioning that another artifact left by the process was the [binacl
 
 #### Prototypes:
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 #### ¿corresponde con los requerimientos? ¿por qué?:
 
@@ -80,6 +100,7 @@ Our next requirement is recognition of progress. Each time the user completes an
 #### validación de las interfaces con el cliente / usuarios:
 
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ---
 
