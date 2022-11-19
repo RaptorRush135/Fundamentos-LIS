@@ -29,15 +29,9 @@ Finally, we did a test with different users to check out how they interact with 
 
 #### Requeriments evolution:
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Here you can see our [old requeriments] and our [new requeriments], they changed because we understood what requeriments means, also we decided only write the really neccessary requeriments for our projet.
 
-Puedes hacer una comparación entre los requerimientos así cóm justificar el motivo de cambio, (por cuestiones de tiempo, porque elegimos los más esenciales, etc...)
-
-#### Refinement of artifacts:
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos los diagramas de casos de uso e hicimos algunos cambios en las h. de usuario de acuerdo a nuestros requerimientos.....
+#### Refinement of artifacts
 
 ##### User stories before:
 
