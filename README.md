@@ -36,8 +36,8 @@ There was also a reduction in the number of features we had originally planned, 
 
 #### Requeriments evolution:
 
-Here you can see our [old requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20OLD.pdf)
-and our [new requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20NEW.pdf).
+Here you can see our [old requeriments](Artifacts/Table%20of%20requirements%20OLD.pdf)
+and our [new requeriments](Artifacts/Table%20of%20requirements%20NEW.pdf).
 
 The requirements had a rewrite since the first increment, we realized our requirements list had a lot of redundancies, some of them were poorly written and most of the requirements explained how we planned to build the app before having established the design. We reduced the list of requirements to the core five that explain what we want to achieve with our project.
 
@@ -65,11 +65,11 @@ The requirements had a rewrite since the first increment, we realized our requir
 ### Process managment:
 
 The process management that this work implied left us with a series of artifacts.
-The first artifact is the [contribution metric](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Activity%20scores/Contribution%20metric-Unit%202.pdf), this allows us to realize that we actually do a collaborative work, since there are activities in which was involved all the team, this don't reduce agility, but, made us achieve the activities on the set time, also are activities that we did individually, every activity has a score assigned previously agreed with the team, so everyone was agree with the score, which allowed the realization of a just work, resulting in all had the same score.
+The first artifact is the [contribution metric](Activity%20scores/Contribution%20metric-Unit%202.pdf), this allows us to realize that we actually do a collaborative work, since there are activities in which was involved all the team, this don't reduce agility, but, made us achieve the activities on the set time, also are activities that we did individually, every activity has a score assigned previously agreed with the team, so everyone was agree with the score, which allowed the realization of a just work, resulting in all had the same score.
 
 A tool that we use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, worth mentioning that in the Trello can also find activities that we did as a team witch aren't accurately from this project, but yes from the rest of the class, this is important to mention it as allows us to visualize that each activity was previously design and was a monitoring to secure the developing of each activities required.
   
-The last artifact of the management of the process was the [binacle from this second part](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Binnacle/binnacle2.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
+The last artifact of the management of the process was the [binacle from this second part](Binnacle/binnacle2.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 ---
 
@@ -84,7 +84,7 @@ In terms of how we organized content, we took inspiration from existing apps tha
 To design the color palette, the [Adobe Colors](https://color.adobe.com/es/create/color-wheel) tool was used.
 
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Ricardo-Alejandro-Palma-Rivas/Assets/AdAstraPrototype.png" width="1500"/>
+<img src="Assets/AdAstraPrototype.png" width="1500"/>
 
 #### Correspondence with the Requirements:
 
