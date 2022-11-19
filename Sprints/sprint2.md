@@ -1,4 +1,5 @@
-##Sprint 2
+## Sprint 2
+
 <img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Artifacts/sprint2.png" width="950" height="550"/>
 
 **Begin:** 30/10/2022 
@@ -12,4 +13,4 @@ The activity carried out was the improvement of the prototype, this time taking 
 All the members fulfilled the role of contributing to the creation of the prototype, said prototype was started in a meeting with a contribution of ideas by the members and finished on November 2nd, with the last visual modifications of this sprint, leaving as a result the prototype "1.2":
 
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Artifacts/Prototype1.2.png" width="550" height="250"/>
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Artifacts/Prototype1.2.png" width="650" height="350"/>
