@@ -41,38 +41,33 @@ podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos lo
 
 ##### User stories before:
 
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/UserStories%20OLD.pdf)
+[Here!](Artifacts/UserStories%20OLD.pdf)
 
 ##### User stories now:
 
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/User%20stories%20NEW.pdf)
+[Here!](Artifacts/User%20stories%20NEW.pdf)
 
 ---
 ### Sprints:
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<img src="https://wac-cdn.atlassian.com/dam/jcr:7af87fb7-1d9d-40de-910b-852ad8fe1825/scrum@2x.png" width="500" height="240"/>
 
-[Sprint 1](...)
+[Sprint 1](Sprints/sprint1.md)
 
-[Sprint 2](...)
+[Sprint 2](Sprints/sprint2.md)
 
-[Sprint 3 y 4](...)
-
-[Sprint 5](...)
+[Sprint 3 y 4](Sprints/sprint3y4.md)
 
 ### Process managment:
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+The process management that this work implied left us with a series of artifacts.
+The first artifact is the [contribution metric](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Activity%20scores/Contribution%20metric-Unit%202.pdf), this allows us to realize that we actually do a collaborative work, since there are activities in which was involved all the team, this don't reduce agility, but, made us achieve the activities on the set time, also are activities that we did individually, every activity has a score assigned previously agreed with the team, so everyone was agree with the score, which allowed the realization of a just work, resulting in all had the same score.
 
-me voy a apoyar de esto, pero agregaré cambios significativos
-The process management that this work implied left us with a series of artifacts. As we had mentioned, a tool that we should use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), a tool in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, while GitHub helped us to monitor that each member complies with their part of the work, since with the GitHub branches we can observe that each member contributed an essential part to the project, in addition, with this document we can observe the values given to each activity, values obtained in the most objective way possible, that is, with an agreement between the entire team.
-
-It is worth mentioning that another artifact left by the process was the [binacle](/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
+A tool that we use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, worth mentioning that in the Trello can also find activities that we did as a team witch aren't accurately from this project, but yes from the rest of the class, this is important to mention it as allows us to visualize that each activity was previously design and was a monitoring to secure the developing of each activities required
+  
+The last artifact of the management of the process was the [binacle from this second part](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Binnacle/binnacle2.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 ---
-### Sprints:
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ### Design:
 
