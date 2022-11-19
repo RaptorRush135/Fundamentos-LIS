@@ -29,8 +29,10 @@ Finally, we did a test with different users to check out how they interact with 
 
 #### Requeriments evolution:
 
-Here you can see our [old requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20OLD.pdf
-) and our [new requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20NEW.pdf), they changed because we understood what requirements means, also, we decided to write only the really necessary requirements for our project.
+Here you can see our [old requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20OLD.pdf)
+and our [new requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20NEW.pdf).
+
+The requirements had a rewrite since the first increment, we realized our requirements list had a lot of redundancies, some of them were poorly written and most of the requirements explained how we planned to build the app before having established the design. We reduced the list of requirements to the core five that explain what we want to achieve with our project.
 
 #### Refinement of artifacts
 
