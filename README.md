@@ -77,11 +77,14 @@ The last artifact of the management of the process was the [binacle from this se
 
 #### Prototypes:
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+The [prototype made](https://www.figma.com/file/e2DL72NnvbuJVVrgAsR9KM/AdAstra-Prototype?t=MR2w50zqbj4Qz0l9-1) is of medium fidelity and was made on [Figma](https://www.figma.com).
 
-agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
+In terms of how we organized content, we took inspiration from existing apps that feature content or activities similar to what we've planned, in which we analyzed what worked and what seemed to us to be deficient within these apps.
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+To design the color palette, the [Adobe Colors](https://color.adobe.com/es/create/color-wheel) tool was used.
+
+
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Ricardo-Alejandro-Palma-Rivas/Assets/AdAstraPrototype.png" width="1500"/>
 
 #### Correspondence with the Requirements:
 
