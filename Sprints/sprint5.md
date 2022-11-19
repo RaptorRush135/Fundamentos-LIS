@@ -9,4 +9,4 @@ decided to change us prototype with those suggestions, getting an layout more co
 In adition we get information about the respose of the users to the activities, like the time
 what did it take to complete it and the drawbacks who showed up
 
-https://www.figma.com/file/e2DL72NnvbuJVVrgAsR9KM/Untitled?node-id=0%3A1&t=qgmRIHKhTXwxqSn8-0
+https://www.figma.com/file/e2DL72NnvbuJVVrgAsR9KM/AdAstra-Prototype?t=MR2w50zqbj4Qz0l9-1
