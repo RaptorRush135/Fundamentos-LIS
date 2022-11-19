@@ -1,4 +1,6 @@
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Artifacts/Sprint1.png" width="550" height="250"/>
+## Sprint 2
+
+<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Artifacts/Sprint1.png" width="650" height="350"/>
 
 **Begin:** 27/10/2022
 
