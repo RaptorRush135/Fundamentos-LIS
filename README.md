@@ -53,6 +53,7 @@ Here you can see our [old requeriments](https://github.com/RaptorRush135/Fundame
 
 [Sprint 3 y 4](Sprints/sprint3y4.md)
 
+---
 ### Process managment:
 
 The process management that this work implied left us with a series of artifacts.
@@ -66,14 +67,11 @@ The last artifact of the management of the process was the [binacle from this se
 
 ### Design:
 
-#### Prototypes:
+#### Our final prototype for now:
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[Here](https://www.figma.com/file/e2DL72NnvbuJVVrgAsR9KM/AdAstra-Prototype?node-id=0%3A1&t=b4WdQnp9DA3vyjmJ-1) you can see our prototipe, we generated this prototype after so much work, sprints and feedback that helped us improve
 
-agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+[Here](https://www.figma.com/proto/e2DL72NnvbuJVVrgAsR9KM/AdAstra-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1) you can see our  prototype running;).
 #### Correspondence with the Requirements:
 
 For the design of the product, all requirements were taken into account in the creation of the prototype. First, any user after entering the application can choose between any available soft skills they wish to develop, in this case, we have two: creativity and decision-making. And when they choose one of the soft skills, the list of activities for each skill will appear.
