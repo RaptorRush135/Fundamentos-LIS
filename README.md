@@ -30,7 +30,7 @@ Finally, we did a test with different users to check out how they interact with 
 #### Requeriments evolution:
 
 Here you can see our [old requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20OLD.pdf
-) and our [new requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20NEW.pdf), they changed because we understood what requeriments means, also we decided only write the really neccessary requeriments for our projet.
+) and our [new requeriments](https://github.com/RaptorRush135/Fundamentos-LIS/blob/entrega-2/Artifacts/Table%20of%20requirements%20NEW.pdf), they changed because we understood what requirements means, also, we decided to write only the really necessary requirements for our project.
 
 #### Refinement of artifacts
 
