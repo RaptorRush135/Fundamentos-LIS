@@ -1,107 +1,151 @@
+<img src="/Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
+
 # Our Team repository-FIS
+
+## Second review presentation:
+
+[Here!](Artifacts/Presentation-E2.pdf)
+
 ## Team:
-- Bonilla Pech Russel Adrian
-- Anaya Alva Monserrat
-- Escamilla Poot Juan Emmanuel
-- Hernández Marín Diego
-- Lara Rubio José Luis
-- Palma Rivas Ricardo
+[Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
 
-## First project proposal:
+### Scrum master:
+- [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp)
 
-[![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/SS_Title.png)](http://www.youtube.com/watch?v=isviSnnD40g)
+### Development team:
+- [Anaya Alva Monserrat](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Monse1011) 
+- [Escamilla Poot Juan Emmanuel](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=CaballeroEscamilla) 
+- [Hernández Marín Diego](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=Mugy628)
+- [Lara Rubio José Luis](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=JoseLuisLara) 
+- [Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
 
-Video: https://youtu.be/isviSnnD40g
 
-There are about **126 optional subjects** you can choose from when loading them at the beginning of each semester. This is without a doubt an overwhelming number of options that make it very difficult to decide properly in the short amount of time you must do so.
-On top of that, the [SICEI](https://www.sicei.uady.mx/) platform has some technical and issues that add yet another layer of complexity to an already hard and tedious process. For example, some issues the team encountered while using the platform are:
+### Product evolution:
 
-- Every time you resize any item (to be able to read the full texts that are usually cut off by other items) it will snap you back to the top of the page, making it very annoying and time consuming to read the full descriptions of every subject and analyze whether you are interested in it or not.
+In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
+Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
 
-- Names are sometimes way to elaborate and don’t really tell you what the subject is about unless you read the 1-2 paragraph description (which doesn’t sound that bad, but the number of available subjects turns it into a long and tedious process).
+### Requeriments:
 
-- There is also no way to sort the subjects depending on your interests or their compatibility with your schedule, making it so you must read all 126 descriptions if you want to make sure you are not missing any you might want to take.
+#### Requeriments evolution:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Puedes hacer una comparación entre los requerimientos así cóm justificar el motivo de cambio, (por cuestiones de tiempo, porque elegimos los más esenciales, etc...)
+
+#### Refinement of artifacts:
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos los diagramas de casos de uso e hicimos algunos cambios en las h. de usuario de acuerdo a nuestros requerimientos.....
+
+##### User stories before:
+
+[Here!](Artifacts/UserStories%20OLD.pdf)
+
+##### User stories now:
+
+[Here!](Artifacts/User%20stories%20NEW.pdf)
+
+---
+### Sprints:
+
+<img src="https://wac-cdn.atlassian.com/dam/jcr:7af87fb7-1d9d-40de-910b-852ad8fe1825/scrum@2x.png" width="500" height="240"/>
+
+[Sprint 1](Sprints/sprint1.md)
+
+[Sprint 2](Sprints/sprint2.md)
+
+[Sprint 3 y 4](Sprints/sprint3y4.md)
+
+### Process managment:
+
+The process management that this work implied left us with a series of artifacts.
+The first artifact is the [contribution metric](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Activity%20scores/Contribution%20metric-Unit%202.pdf), this allows us to realize that we actually do a collaborative work, since there are activities in which was involved all the team, this don't reduce agility, but, made us achieve the activities on the set time, also are activities that we did individually, every activity has a score assigned previously agreed with the team, so everyone was agree with the score, which allowed the realization of a just work, resulting in all had the same score.
+
+A tool that we use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, worth mentioning that in the Trello can also find activities that we did as a team witch aren't accurately from this project, but yes from the rest of the class, this is important to mention it as allows us to visualize that each activity was previously design and was a monitoring to secure the developing of each activities required
+  
+The last artifact of the management of the process was the [binacle from this second part](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Binnacle/binnacle2.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 ---
 
-There are many existing options, and if we don't know how to make good decisions, we would be losing the opportunity to learn something that we may really like or need in the future.
+### Design:
 
-No one wants to choose their non-compulsory subjects wrongly, credits are important, but just as important is our learning.
+#### Prototypes:
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/Assistant_1.png" width="216" height="201"/>
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-And that's why this project was born, **Subject Assistant** is an open-source app that has the purpose of aid UADY students to choose their non-compulsory subjects, this based on various data provided by the user such as:
+agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
 
-- Regular class schedules.
-- Preferences for certain areas.
-- Credits value.
-- Preferred schedules or teachers.
-- Etcetera.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-An algorithm will process all data and sort all subjects offered starting with the most desirable ones, which will be graphically displayed by the app.
-All this with the purpose of facilitating this (otherwise long and tedious) process for the students and helping them to make informed decisions.
+#### Correspondence with the Requirements:
 
----
+For the design of the product, all requirements were taken into account in the creation of the prototype. First, any user after entering the application can choose between any available soft skills they wish to develop, in this case, we have two: creativity and decision-making. And when they choose one of the soft skills, the list of activities for each skill will appear.
+Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, so they can know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
 
-## Second project proposal - Time Hacker
+#### Interfaces validation:
 
-Video: https://youtu.be/sLmjNTBa628
+The prototype of the medium-fidelity interface (made on the Figma) was presented to the target customers, which are university-level students.
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TimeHackerLogo.png" width="220" height="220"/>
+* Simulation of specific tasks to allow a better validation of the interface:
 
-Acording to a survey conducted by OnePOll, it is estimated that we waste on average **2 hours every day** doing a whole lot of nothing. Assuming we spend 8 hours a day sleeping and other 4 hours covering our basic needs like eating, getting dressed or going to the bathroom, 2 hours amounts to one sixth of the time we have available for our daily activities.
+1. Users were told to navigate from the app home to a certain activity, for example, “Go activity number 3 of the Creativity skill”. This to validate that the interface is intuitive and easily understood by users who have never had contact with the app.
 
-Most people are constantly trying to find some way to reduce the amount of time they waste every day, but the reality is, this is something very challenging to acomplish especially without help. That´s why we believe a tool that can help you achieve this goal is clarly needed.
+2. Users were instructed to follow a list of slightly more complex navigation instructions, for example, “Go activity number 2 of the decision-making skill, mark this as completed, using the navigation arrows go to the activity number 5 of this same skill, using the home button go to the skill selection menu, finally go to the first activity of the creativity skill and mark it as completed”. This is to verify that users understand and are easily orient themselves in the application menus.
 
-Time hacker is not a time managing tool, but a tool that recognises the core issues that lead to time waste and gives actionable advise to tackle the bad habbits wich form the foundation of this problem.
+3. Users were instructed to freely explore the application and further analyze the content of the activities, then they were asked if the wording seemed clear and they fully understood what would be done in the activities.
 
----
+4. Finally, they were asked:
 
-## Third project proposal - Hans
+¬ Did you find the interface intuitive?
+¬ What would you modify or add?
 
-Video: https://youtu.be/qIUNIKvUdHg
+* Results:
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/HansLogo.png" width="275" height="275"/>
+It was observed that the users had no problems navigating and understanding the structure of the interface (even if it was their first contact with it), since they were able to follow the navigation instructions perfectly, for this reason, it is considered unnecessary to implement a help section where this would be described.
 
-Our life is the result of a set of habits that we develop over the years...
+* Collection of comments and corresponding changes.
 
+The users found the content of the activities understandable and interesting, and they also mentioned that they did find the navigation and structuring of the content intuitive.
 
-Bad habits and stress are present in our university life, however we are not the only ones, this affects everyone equally, generating serious problems for our health as a consequence.
- 
- 
-That is why we created Hans, Hans would help reduce the problem of bad habits and it would help generate good habits, in addition it will give us tools to reduce stress, attacking two problems at the same time.
-What will help us to develop our greatest potential in the short and long term.
+\- Feedback:
+* Too much text density in some areas.
+* Lack of graphic elements.
+* The color of certain texts makes it difficult to read.
 
----
-
-## Four project proposal:
-
-[![VIDEO](https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/TM_Title.png)](https://youtu.be/sKftwfBs-3Y)
-
-Video: https://youtu.be/sKftwfBs-3Y
-
-It is undeniable that a large part of the demands of current education are based on memorizing large amounts of data, so retaining this information efficiently has become a fundamental attribute for students to have. This information includes things such as: mathematical formulas, historical dates, processes, constants, among many other things.
-
-Studying these (with the aim of memorizing them) is a particularly boring and difficult process, which must be done constantly to keep the memory fresh.
-
-That is why we believe that there are simpler, more entertaining, interactive, and fun ways to learn or memorize all these concepts. Our proposal consists of giving students free access to simple activities and games, this through a software that helps students learn in a much more comfortable and visual way. 
-
-This approach also has other advantages such as that it can automatically track learning and point the areas that need to be practiced and studied more, and even compare this progress with that of their peers.
-
-Likewise, one of its main characteristics is that it is easily customizable by users, that is, they have the option of making activities take on custom themes that they designed themselves.
-
-With this we hope to create a useful tool for all students, and that these concepts remain more easily in their long-term memory, as a result of a more interactive and entertaining learning.
+\- Changes:
+* Indentation was added to paragraphs.
+* The paragraphs were better distributed.
+* Long activities were organized into pages.
+* Changed the color of some texts.
+* Graphic elements were added.
 
 ---
 
-## Five project proposal - Ad astra
+### Our presentation video (increment 2):
 
-Vídeo: https://youtube.com/shorts/jY6vmk5uIBA?feature=share
+https://youtu.be/ScpYfEhYVhw
 
+### Generic skills:
 
-<img src="https://github.com/RaptorRush135/Fundamentos-LIS/blob/main/Assets/AdAstraLogo.jpg" width="250" height="250"/>
+  •	**Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly**
+  
+Communication is extremely important in our day-to-day and we obtained this competence while restructuring and refining the requirements, also in the meetings between the development team and the scrum master, as well while creating the work material for the soft skills, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
 
-New Challenges and problems always arise in the field of work and if we don't have the necessary softskills we will not be able to do a good job either when communicating with our colleagues or when we trying to find a quick solution, even solving problems beatween our teams.
+  •	**Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner.**
+  
+For this second increment, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
+But unlike the last increment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
 
+  •	**Make decisions in your professional and personal practice, responsibly.**
+  
+We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
 
-These softskills have to start working from an early age to be polished un adulthood, For that arises the idea of Ad Astra💫 an aplication that will help you train the most important softskills in the industry, based on riddles and exercises that alow you to learn certain softskills.
+### Disciplinary skills:
+
+  •	**Select the Software Life Cycle Model at the beginning of a project, based on the characteristics of the development team, the client, and the problem.**
+
+This competence was obtained no long after the first delivery of the project, after we analyzed and compared the different life cycle models, we went on and selected the prototype model. This model was the one we considered to be the most suitable for our project, since it´s currently being developed as a mobile application, working with prototypes will benefit the development team, as well as the client.
+
+We also had to prepare an exposition about the prototype model, including and example of how it was used during the development of a project. Doing this helped us to better understand the model we choose and made us realize that it was the model that would best suit our project.
