@@ -1,4 +1,4 @@
-<img src="/Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
+<img src="Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
 
 # Our Team repository-FIS
 
@@ -7,7 +7,7 @@
 [Here!](Artifacts/Presentation-E2.pdf)
 
 ## Team:
-[Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
+[Our personal reflections - unit 2](Personal%20reflections) 
 
 ### Scrum master:
 - [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp)
