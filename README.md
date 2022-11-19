@@ -22,8 +22,15 @@
 
 ### Product evolution:
 
-In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
-Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
+In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products’ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
+
+The products’ general objective is still very similar to what it was in the first increment of the project, but we now have a much more detailed specification of exactly what it is and how it’s going to achieve the goals we have in mind.
+
+We decided to focus on only two softskills, these being creativity and decision making. This decision was made because limiting us to only two soft skills will allow us to develop higher quality study plans and activities for each one, and by the end of the project we will have a sturdy base from which we could continue adding content to the project.
+
+We also decided that the best platform for our project would be a mobile app, this way it’s a lot easier for us to distribute it and for people to get started using it. It also gives us a lot of freedom in the way we design our activities.
+
+There was also a reduction in the number of features we had originally planned, we eliminated periodic evaluations and the progression system because they didn’t add much value to the project and would have made development a lot more complex. 
 
 ### Requeriments:
 
