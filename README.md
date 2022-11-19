@@ -62,6 +62,8 @@ The requirements had a rewrite since the first increment, we realized our requir
 
 [Sprint 3 y 4](Sprints/sprint3y4.md)
 
+[Sprint 5](Sprints/sprint5.md)
+
 ### Process managment:
 
 The process management that this work implied left us with a series of artifacts.
@@ -81,15 +83,35 @@ The [prototype made](https://www.figma.com/file/e2DL72NnvbuJVVrgAsR9KM/AdAstra-P
 
 In terms of how we organized content, we took inspiration from existing apps that feature content or activities similar to what we've planned, in which we analyzed what worked and what seemed to us to be deficient within these apps.
 
-To design the color palette, the [Adobe Colors](https://color.adobe.com/es/create/color-wheel) tool was used.
+We tried to keep the interface clean and simple by not presenting the user with many options at once and allowing them to move freely between the available screens.
 
+To design the color palette, the [Adobe Colors](https://color.adobe.com/es/create/color-wheel) tool was used.
 
 <img src="Assets/AdAstraPrototype.png" width="1500"/>
 
 #### Correspondence with the Requirements:
 
-For the design of the product, all requirements were taken into account in the creation of the prototype. First, any user after entering the application can choose between any available soft skills they wish to develop, in this case, we have two: creativity and decision-making. And when they choose one of the soft skills, the list of activities for each skill will appear.
-Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, so they can know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
+After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the interface tests.
+
+1. Choose a soft-skill:
+
+After the first welcome menu, the first thing that follows is the skills catalog, where the user can select the desired soft-skill to train.
+
+2. Progress recognition:
+
+In the acceptance criteria of this requirement, we had established that each activity had to have a checkbox to be marked by the user, and when they moved between menus its status would remain intact, that is, whether they were already completed or not.
+
+3. Completed content:
+
+After selecting the skill, a menu is presented where a vertical list of activities is presented and the user can access the one they want, even if they have already completed it. In the acceptance criteria for this, we established that the list of activities will always be the same, that is, they will be presented in the same order.
+
+4. Soft-skills categorization:
+
+Related to the first requirement of how we structure the content by skill and from there by activity. Likewise, in the acceptance criteria of this we include that the interface must be accompanied by a representative illustration of the skill.
+
+5. Progress saving:
+
+This is a slightly more technical requirement, which could not be implemented due to limitations of the platform where the prototype was made, but by the time we are in the implementation phase, the current design will not generate problems with this requirement and it will be possible to implement.
 
 #### Interfaces validation:
 
