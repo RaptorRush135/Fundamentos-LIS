@@ -68,6 +68,7 @@ Related to the first requirement of how we structure the content by skill and fr
 5. Progress saving:
 
 This is a slightly more technical requirement, which could not be implemented due to limitations of the platform where the prototype was made, but by the time we are in the implementation phase, the current design will not generate problems with this requirement and it will be possible to implement.
+
 ---
 
 ## Our presentation video (increment 3):
