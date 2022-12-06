@@ -87,7 +87,7 @@ agreagaaaaar
 
 ## Good bye?:
 
-### Lecciones aprendidas:
+### Lessons learned:
 We´ve learned several lessons throughout the Fundamentals of Software Engineering course, related to the organization, planning and development of a project.
 
 During these last months, we found ourselves with the task of developing a team project, which we were trying to develop professionally. We learned to work as a team, to communicate in a good way, as well as we learned the strengths and weaknesses of our team, which helped us speed up the preparation of our project. And speaking of speeding up, a lesson we learned during the course was how to work with an agile methodology, as well as the different software life cycle models we could work with.
