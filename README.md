@@ -87,8 +87,16 @@ agreagaaaaar
 
 ## Good bye?:
 
-### Lecciones aprendidas:
-agregaaaaaqar
+### Lessons learned:
+We´ve learned several lessons throughout the Fundamentals of Software Engineering course, related to the organization, planning and development of a project.
+
+During these last months, we found ourselves with the task of developing a team project, which we were trying to develop professionally. We learned to work as a team, to communicate in a good way, as well as we learned the strengths and weaknesses of our team, which helped us speed up the preparation of our project. And speaking of speeding up, a lesson we learned during the course was how to work with an agile methodology, as well as the different software life cycle models we could work with.
+
+As expected from a subject about the fundamentals of SI, we learned a lot about theory, but what was most enriching was the fact that we had to go beyond learning theory, and applied the knowledge seen in class for the Development of the project.
+
+A lesson that everyone should learn is communication, especially when we work as a team. Therefore, as a team, we recommend that if you get to work as a team, do not be afraid to ask if something is not clear or if you want to contribute something to the team, each opinion counts and contributes too much so that everyone can communicate correctly.
+
+Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future, and will make us more effective when dealing with any problem that may arise.
 
 ### Crítica al curso:
 -[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
