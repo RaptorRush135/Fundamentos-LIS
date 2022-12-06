@@ -91,6 +91,6 @@ agreagaaaaar
 agregaaaaaqar
 
 ### Crítica al curso:
-agreagaaaaar
+-[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
 
 
