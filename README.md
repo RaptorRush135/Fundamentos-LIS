@@ -1,13 +1,12 @@
-<img src="/Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
+<img src="Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
 
 # Our Team repository-FIS
 
-## Second review presentation:
-
-...
-
 ## Team:
-[Our personal reflections- unit 2](https://github.com/RaptorRush135/Fundamentos-LIS/tree/entrega-2/Personal%20reflections) 
+[Our personal reflections - unit 2](Personal%20reflections) 
+
+agregaaaaar lo de abajo
+[Revisar estooo y agregar un link con referencia a nuestra sesión práctica aquí](...) 
 
 ### Scrum master:
 - [Bonilla Pech Russel Adrian](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=soy-russ-bp)
@@ -19,87 +18,79 @@
 - [Lara Rubio José Luis](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=JoseLuisLara) 
 - [Palma Rivas Ricardo](https://github.com/RaptorRush135/Fundamentos-LIS/commits/entrega-1/README.md?author=RaptorRush135) 
 
-
-### Product evoution:
-
-In this second delivery, we focused on designing the product, but before building the wireframe we had to restructure and refine the requirements to continue with the following steps. Later on, having our products´ wireframe, the next we needed to do was make it into a medium-fidelity prototype, in which we added the different available soft skills with their respective activities.
-Finally, we did a test with different users to check out how they interact with the prototype and to know if we had something to change about the interface or the wording of the activities.
-
-### Requeriments:
-
-#### Requeriments evolution:
-
-Puedes hacer una comparación entre los requerimientos así cóm justificar el motivo de cambio, (por cuestiones de tiempo, porque elegimos los más esenciales, etc...)
-
-#### Refinement of artifacts:
-
-podemos dar una breve explicación de los cambios, por ejemplo, no utilizamos los diagramas de casos de uso e hicimos algunos cambios en las h. de usuario de acuerdo a nuestros requerimientos.....
-
-##### User stories before:
-
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/b98805fc4707aebe66709528adbdc0f1d2943b02/Artifacts/UserStories.pdf)
-
-##### User stories now:
-
-[Here!](https://github.com/RaptorRush135/Fundamentos-LIS/blob/ec0417382d2c75e2c79c122600c67ee4553dc615/Artifacts/User%20stories.pdf)
-
 ---
-### Sprints:
-(falta agregar las carpetas de los md de cada sprint)
-[Sprint 1](...)
 
-[Sprint 2](...)
+## Evolution:
 
-[Sprint 3](...)
-
-[Sprint 4](...)
-
-### Process managment:
-me voy a apoyar de esto, pero agregaré cambios significativos
-The process management that this work implied left us with a series of artifacts. As we had mentioned, a tool that we should use to organize ourselves was [trello](https://trello.com/b/JzEzsDt0/our-project-fis), a tool in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, while GitHub helped us to monitor that each member complies with their part of the work, since with the GitHub branches we can observe that each member contributed an essential part to the project, in addition, with this document we can observe the values given to each activity, values obtained in the most objective way possible, that is, with an agreement between the entire team.
-
-It is worth mentioning that another artifact left by the process was the [binacle](/Binnacle/README.md), which can be found in this GitHub (include link), in it we can observe the agreements we reached, and what we did before, during and after each meeting.
-
----
-### Sprints:
-(falta agregar las carpetas de los md de cada sprint)
-[Sprint 1](...)
-
-### Design:
-
-#### Prototypes:
-
-agregar prototipos, recomendación, agregar las capturas en un md dentro de una carpeta y poner el link
-
-#### ¿corresponde con los requerimientos? ¿por qué?:
-
-For the design of the product, we have some requirements which are reflected in the creation of the prototype. First, any user after entering the application can choose between any available soft skills they wish to develop, in this case, we have two: creativity and decision-making. And when they choose one of the soft skills, the list of activities for each skill will appear.
-Our next requirement is recognition of progress. Each time the user completes an activity, they can mark the task as completed in the box that appears at the top right of the screen, so they can know which activities have already been done and which remain to be completed. Moving on to the next point, once the activity is finished, the user can review the activity and its content again using the arrows located at the bottom of the screen or return to the list of all activities and select the one they want to review.
-
-
-#### validación de las interfaces con el cliente / usuarios:
-
+....
 
 
 ---
 
 
-### Our presentation video (delivery 2):
+### Process management:
 
+The process management that this work implied left us with a series of artifacts.
+The first artifact is the [agregaaaaaaaaar contribution metric](fff), this allows us to realize that we actually do a collaborative work, since there are activities in which was involved all the team, this don't reduce agility, but, made us achieve the activities on the set time, also are activities that we did individually, every activity has a score assigned previously agreed with the team, so everyone was agree with the score, which allowed the realization of a just work, resulting in all had the same score.
+
+A tool that we use to organize ourselves was [Trello](https://trello.com/b/JzEzsDt0/our-project-fis), in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, worth mentioning that in the Trello can also find activities that we did as a team witch aren't accurately from this project, but yes from the rest of the class, this is important to mention it as allows us to visualize that each activity was previously design and was a monitoring to secure the developing of each activities required.
+  
+The last artifact of the management of the process was the [binacle from this second part](Binnacle/binnacle2.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
+
+
+agregaaaaaar más
+---
+
+## Producto:
+
+aquí pude ir algo breve encima, como "este es nuestro producto", el link hacia el código y hacia la aplicaión en formato apk o algún zip para descargar la aplicaión
+
+### Correspondence with the Requirements:
+
+After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the interface design proposal.
+
+1. Choose a soft-skill:
+
+After the first welcome menu, the first thing that follows is the skills catalog, where the user can select the desired soft-skill to train.
+
+2. Progress recognition:
+
+In the acceptance criteria of this requirement, we had established that each activity had to have a checkbox to be marked by the user, and when they moved between menus its status would remain intact, that is, whether they were already completed or not.
+
+3. Completed content:
+
+After selecting the skill, a menu is presented where a vertical list of activities is presented and the user can access the one they want, even if they have already completed it. In the acceptance criteria for this, we established that the list of activities will always be the same, that is, they will be presented in the same order.
+
+4. Soft-skills categorization:
+
+Related to the first requirement of how we structure the content by skill and from there by activity. Likewise, in the acceptance criteria of this we include that the interface must be accompanied by a representative illustration of the skill.
+
+5. Progress saving:
+
+This is a slightly more technical requirement, which could not be implemented due to limitations of the platform where the prototype was made, but by the time we are in the implementation phase, the current design will not generate problems with this requirement and it will be possible to implement.
+
+---
+
+## Our presentation video (increment 3):
+agregaaaaaaaaar:((
+---
+
+## Competencies:
 
 ### Generic skills:
-#### -Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly
-Communication is extremely important in our day-to-day and we obtained this competence while restructuring and refining the requirements, also in the meetings between the development team and the scrum master, as well while creating the work material for the soft skills, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
-#### -Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner
-For this second delivery, we continue using Trello to be able to organize ourselves and assign tasks, Github to store the information in our repository, and Teams to hold meetings and discuss what we should do next.
-But unlike the last installment, we learned to use Figma to be able to translate our wireframe into a medium-fidelity prototype.
-#### -Make decisions in your professional and personal practice, responsibly.
-We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the design and test phases of the project.
+agregaaaaaqar
 
 ### Disciplinary skills:
+agreagaaaaar
 
-  •	**Select the Software Life Cycle Model at the beginning of a project, based on the characteristics of the development team, the client, and the problem.**
+---
 
-This competence was obtained no long after the first delivery of the project, after we analyzed and compared the different life cycle models, we went on and selected the prototype model. This model was the one we considered to be the most suitable for our project, since it´s currently being developed as a mobile application, working with prototypes will benefit the development team, as well as the client.
+## Good bye?:
 
-We also had to prepare an exposition about the prototype model, including and example of how it was used during the development of a project. Doing this helped us to better understand the model we choose and made us realize that it was the model that would best suit our project.
+### Lecciones aprendidas:
+agregaaaaaqar
+
+### Crítica al curso:
+agreagaaaaar
+
+
