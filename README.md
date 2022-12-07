@@ -47,7 +47,7 @@ aquí pude ir algo breve encima, como "este es nuestro producto", el link hacia 
 
 ### Correspondence with the Requirements:
 
-After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the interface design proposal.
+After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the implementation of the product.
 
 1. Choose a soft-skill:
 
@@ -96,7 +96,7 @@ As expected from a subject about the fundamentals of SI, we learned a lot about 
 
 A lesson that everyone should learn is communication, especially when we work as a team. Therefore, as a team, we recommend that if you get to work as a team, do not be afraid to ask if something is not clear or if you want to contribute something to the team, each opinion counts and contributes too much so that everyone can communicate correctly.
 
-Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future, and will make us more effective when dealing with any problem that may arise.
+Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future and will make us more effective when dealing with any problem that may arise.
 
 ### Course criticism:
 -[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
