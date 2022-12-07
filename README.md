@@ -67,7 +67,7 @@ Related to the first requirement of how we structure the content by skill and fr
 
 5. Progress saving:
 
-This is a slightly more technical requirement, which could not be implemented due to limitations of the platform where the prototype was made, but by the time we are in the implementation phase, the current design will not generate problems with this requirement and it will be possible to implement.
+Each activity presents different objectives that the user must achieve, when this moment arrives the user marks it as completed in the upper right corner, in the same way it can be pressed again, and it will be unmarked. When navigating to other activities or menus, the app recognizes our progress, this is also true if we completely exit the app and we go back in, since the progress is stored in the device local storage.
 
 ---
 
@@ -98,7 +98,7 @@ A lesson that everyone should learn is communication, especially when we work as
 
 Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future, and will make us more effective when dealing with any problem that may arise.
 
-### Crítica al curso:
+### Course criticism:
 -[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
 
 
