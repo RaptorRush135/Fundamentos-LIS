@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7196dbcd9fe2824ca436f0e0ba98dc4, type: 3}
+  m_Name: S2-A3
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: Decision making frameworks
+  <Pages>k__BackingField:
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 5a7d20bf80759c6419e8714529214fd4, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 4a2f591d0930af74ab7db03aeb6c2b6f, type: 2}
+      - <ExtraSpacing>k__BackingField: -200
+        <Element>k__BackingField: {fileID: 11400000, guid: 26a20709a95a7c345a43ac27bef422ed, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55ccf0508c4a2e94bba3de43f48d2973, type: 3}
+  m_Name: 2-Text
+  m_EditorClassIdentifier: 
+  <FontSize>k__BackingField: 86
+  <RichText>k__BackingField: 1
+  <ParagraphSpacing>k__BackingField: 0
+  <Text>k__BackingField: "     You will find <color=#C22444>sketchy drawings</color>,
+    complete the drawings <color=#C22444>to represent</color> interesting things:
+    objects, images and everything you want.\n\n     Develop your first idea with
+    the final purpose of <color=#C22444>illustrating a story</color> as complex and
+    interesting as possible. Try to find ideas in which no one has thought. Remember
+    white underof each drawing, the title that you put it."
