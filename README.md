@@ -41,9 +41,9 @@ The last artifact of the management of the process was the [binacle from this se
 agregaaaaaar más
 ---
 
-## Producto:
+## Product / Requirements:
 
-aquí pude ir algo breve encima, como "este es nuestro producto", el link hacia el código y hacia la aplicaión en formato apk o algún zip para descargar la aplicaión
+Our final product, both the app (apk) and the source code can be found [here](Product).
 
 ### Correspondence with the Requirements:
 
@@ -68,6 +68,10 @@ Related to the first requirement of how we structure the content by skill and fr
 5. Progress saving:
 
 Each activity presents different objectives that the user must achieve, when this moment arrives the user marks it as completed in the upper right corner, in the same way it can be pressed again, and it will be unmarked. When navigating to other activities or menus, the app recognizes our progress, this is also true if we completely exit the app and we go back in, since the progress is stored in the device local storage.
+
+[Final version of the requirements](Artifacts/Final-Requirements.pdf)
+
+[User stories / Acceptance criteria](Artifacts/User%20stories%20NEW.pdf)
 
 ---
 
