@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7196dbcd9fe2824ca436f0e0ba98dc4, type: 3}
+  m_Name: S2-A6
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: Decision making fears
+  <Pages>k__BackingField:
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: fbbbe1bd978a9f348a418fab8cf683a0, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 1974de58ae9c05249a96e40dbe70778b, type: 2}
+      - <ExtraSpacing>k__BackingField: -200
+        <Element>k__BackingField: {fileID: 11400000, guid: 988e760b211d44844b12948ae4cc7c14, type: 2}

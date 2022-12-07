@@ -3,7 +3,7 @@
 # Our Team repository-FIS
 
 ## Team:
-[Our personal reflections - unit 2](Personal%20reflections) 
+[Our personal reflections - unit 3](Personal%20reflections) 
 
 agregaaaaar lo de abajo
 [Revisar estooo y agregar un link con referencia a nuestra sesión práctica aquí](...) 
@@ -41,13 +41,13 @@ The last artifact of the management of the process was the [binacle from this se
 agregaaaaaar más
 ---
 
-## Producto:
+## Product / Requirements:
 
-aquí pude ir algo breve encima, como "este es nuestro producto", el link hacia el código y hacia la aplicaión en formato apk o algún zip para descargar la aplicaión
+Our final product, both the app (apk) and the source code can be found [here](Product).
 
 ### Correspondence with the Requirements:
 
-After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the interface design proposal.
+After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the implementation of the product.
 
 1. Choose a soft-skill:
 
@@ -67,12 +67,19 @@ Related to the first requirement of how we structure the content by skill and fr
 
 5. Progress saving:
 
-This is a slightly more technical requirement, which could not be implemented due to limitations of the platform where the prototype was made, but by the time we are in the implementation phase, the current design will not generate problems with this requirement and it will be possible to implement.
+Each activity presents different objectives that the user must achieve, when this moment arrives the user marks it as completed in the upper right corner, in the same way it can be pressed again, and it will be unmarked. When navigating to other activities or menus, the app recognizes our progress, this is also true if we completely exit the app and we go back in, since the progress is stored in the device local storage.
+
+[Final version of the requirements](Artifacts/Final-Requirements.pdf)
+
+[User stories / Acceptance criteria](Artifacts/User%20stories%20NEW.pdf)
 
 ---
 
 ## Our presentation video (increment 3):
 agregaaaaaaaaar:((
+
+[App demo](https://youtu.be/7BRPJrGeiFE)
+
 ---
 
 ## Competencies:
@@ -96,9 +103,9 @@ As expected from a subject about the fundamentals of SI, we learned a lot about 
 
 A lesson that everyone should learn is communication, especially when we work as a team. Therefore, as a team, we recommend that if you get to work as a team, do not be afraid to ask if something is not clear or if you want to contribute something to the team, each opinion counts and contributes too much so that everyone can communicate correctly.
 
-Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future, and will make us more effective when dealing with any problem that may arise.
+Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future and will make us more effective when dealing with any problem that may arise.
 
-### Crítica al curso:
+### Course criticism:
 -[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
 
 

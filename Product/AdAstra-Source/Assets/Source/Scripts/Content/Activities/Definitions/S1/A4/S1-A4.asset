@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7196dbcd9fe2824ca436f0e0ba98dc4, type: 3}
+  m_Name: S1-A4
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: Imagination challenge
+  <Pages>k__BackingField:
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: deea273a4a71b634e8f8c8bb86de879a, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 3b37615c59590524e889ac81ef7a2879, type: 2}
+      - <ExtraSpacing>k__BackingField: -100
+        <Element>k__BackingField: {fileID: 11400000, guid: 574ea24640f920341b0d1716d03725fe, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: d823db19a67d69e4eaaa166c64663947, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: ca6741a83fcf9054cb079a7fa7b00b0a, type: 2}
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 51ff0ca6a96b4cf4bb5c9d69a5602cc7, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 76e2941736e602540ac4dc75663f234e, type: 2}
+      - <ExtraSpacing>k__BackingField: -50
+        <Element>k__BackingField: {fileID: 11400000, guid: 2b8bdb74c67c574469d4390f19c6db49, type: 2}
+      - <ExtraSpacing>k__BackingField: -35
+        <Element>k__BackingField: {fileID: 11400000, guid: c158add9ddb76d04c9d547940ec7b7cf, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 01e90354ccbd1004f9e3ff4291b4b189, type: 2}
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: f7d1a0c57c71bb441b783c485bc527f9, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: b112ffadeb0b56e4fb71222e2d9a4d05, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 323d670ca0e50c44292344715bd7f2f7, type: 2}
+      - <ExtraSpacing>k__BackingField: 15
+        <Element>k__BackingField: {fileID: 11400000, guid: 206a614a89050644fa2390a6f29ff979, type: 2}
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 0f6e5410822c1714cb72810e2100c061, type: 2}
