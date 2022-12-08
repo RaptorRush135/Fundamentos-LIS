@@ -22,7 +22,7 @@ agregaaaaar lo de abajo
 
 ## Evolution:
 
-We translated all the videos and activities from Spanish to English and started developing the app in Unity, this was relatively simple cause we already had a pretty accurate prototype of the product.
+On this third increment we translated all the videos and activities from Spanish to English and started developing the app in Unity, this was relatively simple cause we already had a pretty accurate prototype of the product.
 
 We chose Unity because two of our team members were already knowledgeable on how to use it and it allows you to easily export it to mobile as a .Apk file.
 During this increment we only had two sprints. In both of them a part of the team was in charge of development while the other part was translating the content and taking care of the activities that weren’t directly related with building the product, just like the planning, recording and editing of this video.
