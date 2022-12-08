@@ -22,7 +22,7 @@ agregaaaaar lo de abajo
 
 ## Evolution:
 
-....
+We translated all the videos and activities from Spanish to English and also we started developing the app in Unity, this was relatively simple cause we already had a pretty accurate prototype of the product.
 
 
 ---
