@@ -22,8 +22,10 @@ agregaaaaar lo de abajo
 
 ## Evolution:
 
-....
+On this third increment we translated all the videos and activities from Spanish to English and started developing the app in Unity, this was relatively simple cause we already had a pretty accurate prototype of the product.
 
+We chose Unity because two of our team members were already knowledgeable on how to use it and it allows you to easily export it to mobile as a .Apk file.
+During this increment we only had two sprints. In both of them a part of the team was in charge of development while the other part was translating the content and taking care of the activities that weren’t directly related with building the product, just like the planning, recording and editing of this video.
 
 ---
 
@@ -85,7 +87,12 @@ agregaaaaaaaaar:((
 ## Competencies:
 
 ### Generic skills:
-agregaaaaaqar
+#### • Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly
+Communication is extremely important in our day-to-day and we obtained this competence while planning the activities we need to do, also in the meetings between the development team and the scrum master, as well while translating the material work of each soft skill, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
+#### • Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner.
+For this third increment, we continue using Trello to be able to organize ourselves and assign tasks, GitHub to store the information in our repository, and Teams to hold meetings and discuss what we should do next. We also use Unity for developing the product and getting the .apk file with our app. 
+#### • Make decisions in your professional and personal practice, responsibly.
+We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the development of the app and translataion of the material. 
 
 ### Disciplinary skills:
 •	Analyzes the main methods, techniques, process and good prácticas used in the processes of stimation, plannig, monitoring, Quality and sofware configuration, acording the body of knowledge recognized by the discipline
