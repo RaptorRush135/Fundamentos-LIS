@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7196dbcd9fe2824ca436f0e0ba98dc4, type: 3}
+  m_Name: S1-A2
+  m_EditorClassIdentifier: 
+  <Title>k__BackingField: Creative stories
+  <Pages>k__BackingField:
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 0
+        <Element>k__BackingField: {fileID: 11400000, guid: 2a451347c74923648b0c6661368adea9, type: 2}
+      - <ExtraSpacing>k__BackingField: 100
+        <Element>k__BackingField: {fileID: 11400000, guid: c1f9ee01995c70645b7ab5ba0aca8e54, type: 2}
+      - <ExtraSpacing>k__BackingField: -50
+        <Element>k__BackingField: {fileID: 11400000, guid: 0afab9d909b9dec4da92118c6cfa03c8, type: 2}
+      - <ExtraSpacing>k__BackingField: 200
+        <Element>k__BackingField: {fileID: 11400000, guid: d3a443ec5e317694ea2c41ff84717391, type: 2}
+      - <ExtraSpacing>k__BackingField: -50
+        <Element>k__BackingField: {fileID: 11400000, guid: 6856129ef30334f409e28e77664ffa90, type: 2}
+  - <Elements>k__BackingField:
+      content:
+      - <ExtraSpacing>k__BackingField: 426
+        <Element>k__BackingField: {fileID: 11400000, guid: a7b66593c5adf4346aace41426a2d16e, type: 2}
+      - <ExtraSpacing>k__BackingField: -50
+        <Element>k__BackingField: {fileID: 11400000, guid: 5b7eff5dab3c17f40b49e2b4a38ad2ad, type: 2}
+      - <ExtraSpacing>k__BackingField: 201
+        <Element>k__BackingField: {fileID: 11400000, guid: c2c311e75991cee43aa7d4f7cb685937, type: 2}
+      - <ExtraSpacing>k__BackingField: -50
+        <Element>k__BackingField: {fileID: 11400000, guid: 1b9338f0cb77a9b49952aab3a4443338, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f028d00f645ac044a6552cff3c9ca2b, type: 3}
+  m_Name: S1-ES
+  m_EditorClassIdentifier: 
+  <Text>k__BackingField: "     Becoming a creative person takes time for everyone.\r\n\r\n    
+    Just like a bodybuilder needs time to grow his muscles, our brain needs time
+    to learn and adapt.\n\n     This is just the beginning, never stop learning,
+    and boost your soft-skills\r\n\r\nAd-astra"
+  <ImageInfo>k__BackingField:
+    <Image>k__BackingField: {fileID: 21300000, guid: 3d6e6eb800649344990d48b0f13c2dcc, type: 3}
+    <Pos>k__BackingField: {x: 200, y: -950}
+    <Height>k__BackingField: 1000
