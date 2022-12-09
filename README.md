@@ -5,7 +5,7 @@
 ## Team:
 [Our personal reflections - unit 3](Personal%20reflections) 
 
-agregaaaaar lo de abajo
+[Our practical session materials](https://github.com/RaptorRush135/Fundamentos-LIS/tree/Russel-Adrian-Bonilla-Pech-Entrega-1/Practical-session)
 
 
 ### Scrum master:
