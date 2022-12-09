@@ -123,3 +123,8 @@ Without a doubt, we learned very valuable lessons that will be of great help to 
 
 ### Course criticism:
 -[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
+
+Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future and will make us more effective when dealing with any problem that may arise.
+
+### Course criticism:
+-[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
