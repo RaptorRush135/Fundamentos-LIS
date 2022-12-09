@@ -1,6 +1,6 @@
 | **Week** | **Previously done activities** | **Problems that came up** | **What we plan to do** |
 |----------|--------------------------------|---------------------------|------------------------|
 | 18 nov - 24 nov | we had a meeting where we decided that we could program the app, and other part of the team would translate the content | Apparently no problems were detected, so we could move on to the next stage.|we planned to finish everything the next week. |
-| 25 nov - 31 nov| We made a lot of progress in terms of the translation, the production of videos and the development of the app. |  Apparently no problems were detected, so we could move on to the next stage. | We planned to finish our final video, the demo of the app and our repository. |
+| 25 nov - 30 nov| We made a lot of progress in terms of the translation, the production of videos and the development of the app. |  Apparently no problems were detected, so we could move on to the next stage. | We planned to finish our final video, the demo of the app and our repository. |
 | 1 dec - 8 dec | We were working on the repository and on the final elements of the project. | We had a lot of work, both project related work and non-project related activities, so this week we moved slowly in relation to the Ad-astra project. | Our project was completed within the established period, but with limitations and with little previous experience, we plan to have a meeting to discuss our strengths and our areas of opportunity. |
 
