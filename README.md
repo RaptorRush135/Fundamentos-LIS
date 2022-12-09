@@ -3,7 +3,7 @@
 # Our Team repository-FIS
 
 ## Team:
-[Our personal reflections - unit 2](Personal%20reflections) 
+[Our personal reflections - unit 3](Personal%20reflections) 
 
 agregaaaaar lo de abajo
 [Revisar estooo y agregar un link con referencia a nuestra sesión práctica aquí](...) 
@@ -22,8 +22,10 @@ agregaaaaar lo de abajo
 
 ## Evolution:
 
-....
+On this third increment we translated all the videos and activities from Spanish to English and started developing the app in Unity, this was relatively simple cause we already had a pretty accurate prototype of the product.
 
+We chose Unity because two of our team members were already knowledgeable on how to use it and it allows you to easily export it to mobile as a .Apk file.
+During this increment we only had two sprints. In both of them a part of the team was in charge of development while the other part was translating the content and taking care of the activities that weren’t directly related with building the product, just like the planning, recording and editing of this video.
 
 ---
 
@@ -41,13 +43,13 @@ The last artifact of the management of the process was the [binacle from this se
 agregaaaaaar más
 ---
 
-## Producto:
+## Product / Requirements:
 
-aquí pude ir algo breve encima, como "este es nuestro producto", el link hacia el código y hacia la aplicaión en formato apk o algún zip para descargar la aplicaión
+Our final product, both the app (apk) and the source code can be found [here](Product).
 
 ### Correspondence with the Requirements:
 
-After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the interface design proposal.
+After reworking the requirements, the user stories, and establishing the acceptance criteria, we considered that they were specific enough and we could start carrying out the implementation of the product.
 
 1. Choose a soft-skill:
 
@@ -67,30 +69,51 @@ Related to the first requirement of how we structure the content by skill and fr
 
 5. Progress saving:
 
-This is a slightly more technical requirement, which could not be implemented due to limitations of the platform where the prototype was made, but by the time we are in the implementation phase, the current design will not generate problems with this requirement and it will be possible to implement.
+Each activity presents different objectives that the user must achieve, when this moment arrives the user marks it as completed in the upper right corner, in the same way it can be pressed again, and it will be unmarked. When navigating to other activities or menus, the app recognizes our progress, this is also true if we completely exit the app and we go back in, since the progress is stored in the device local storage.
+
+[Final version of the requirements](Artifacts/Final-Requirements.pdf)
+
+[User stories / Acceptance criteria](Artifacts/User%20stories%20NEW.pdf)
 
 ---
 
 ## Our presentation video (increment 3):
 agregaaaaaaaaar:((
+
+[App demo](https://youtu.be/7BRPJrGeiFE)
+
 ---
 
 ## Competencies:
 
 ### Generic skills:
-agregaaaaaqar
+#### • Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly
+Communication is extremely important in our day-to-day and we obtained this competence while planning the activities we need to do, also in the meetings between the development team and the scrum master, as well while translating the material work of each soft skill, since in each of these activities we had to express ourselves clearly and concisely to avoid misunderstandings and make others understand what we want to communicate.
+#### • Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner.
+For this third increment, we continue using Trello to be able to organize ourselves and assign tasks, GitHub to store the information in our repository, and Teams to hold meetings and discuss what we should do next. We also use Unity for developing the product and getting the .apk file with our app. 
+#### • Make decisions in your professional and personal practice, responsibly.
+We had an organized list of activities so that we could be prepared and move forward using our developed skills. As a team, we decided to prioritize the development of the app and translataion of the material. 
 
 ### Disciplinary skills:
-agreagaaaaar
+
+•	Analyzes the main methods, techniques, process and good prácticas used in the processes of stimation, plannig, monitoring, Quality and sofware configuration, acording the body of knowledge recognized by the discipline
+This competence we started to develop it since the middle of the second handing over, when we realized that we would not have enough time to develop the software if we waited the feedback to part of the professor, so, we decided to start the aplication software, although the time and resourses stimation processes was primitive, we were right in our prediction and we could finish before since we managed have a great plannig for the code development
+Thanks to the monitoring to part of us to get the feedback by our beta users, we could count whit a control of our system and so can present a Best Quali.Para la parte de configuración de softwre utilizamos un motor gráfico para poder realizarlo
 
 ---
 
 ## Good bye?:
 
-### Lecciones aprendidas:
-agregaaaaaqar
+### Lessons learned:
+We´ve learned several lessons throughout the Fundamentals of Software Engineering course, related to the organization, planning and development of a project.
 
-### Crítica al curso:
-agreagaaaaar
+During these last months, we found ourselves with the task of developing a team project, which we were trying to develop professionally. We learned to work as a team, to communicate in a good way, as well as we learned the strengths and weaknesses of our team, which helped us speed up the preparation of our project. And speaking of speeding up, a lesson we learned during the course was how to work with an agile methodology, as well as the different software life cycle models we could work with.
 
+As expected from a subject about the fundamentals of SI, we learned a lot about theory, but what was most enriching was the fact that we had to go beyond learning theory, and applied the knowledge seen in class for the Development of the project.
 
+A lesson that everyone should learn is communication, especially when we work as a team. Therefore, as a team, we recommend that if you get to work as a team, do not be afraid to ask if something is not clear or if you want to contribute something to the team, each opinion counts and contributes too much so that everyone can communicate correctly.
+
+Without a doubt, we learned very valuable lessons that will be of great help to us in the not too distant future and will make us more effective when dealing with any problem that may arise.
+
+### Course criticism:
+-[Here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Juan-Emmanuel-Poot-Escamilla/Artifacts/Critica_al_curso.docx)
