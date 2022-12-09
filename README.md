@@ -37,7 +37,7 @@ The first artifact is the [contribution metric](https://github.com/RaptorRush135
 
 A tool that we use to organize ourselves was [Trello](https://trello.com/b/JzEzsDt0/our-project-fis), in which we can observe those responsible for assigned each task to them, as well as the delivery deadline, worth mentioning that in the Trello can also find activities that we did as a team witch aren't accurately from this project, but yes from the rest of the class, this is important to mention it as allows us to visualize that each activity was previously design and was a monitoring to secure the developing of each activities required.
   
-Other artifact of the management of the process was the [binacle from this second part](Binnacle/binnacle3.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
+Other artifact of the management of the process was the [binacle from this third part](Binnacle/binnacle3.md), its importance is that thanks to this we could have the control and report of what was done during the weak, here we can observe the agreements we reached, and what we did before, during and after each meeting.
 
 The last artifact in this increment is the total points document, [here](https://github.com/RaptorRush135/Fundamentos-LIS/blob/Russel-Adrian-Bonilla-Pech-Entrega-1/Activity%20Scores/TotalPoints.pdf) you can find the final score obtained by each team member, basically this is a compilation of the score of:
 
