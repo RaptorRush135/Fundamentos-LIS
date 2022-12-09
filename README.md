@@ -99,6 +99,7 @@ We had an organized list of activities so that we could be prepared and move for
 •	Analyzes the main methods, techniques, process and good prácticas used in the processes of stimation, plannig, monitoring, Quality and sofware configuration, acording the body of knowledge recognized by the discipline
 This competence we started to develop it since the middle of the second handing over, when we realized that we would not have enough time to develop the software if we waited the feedback to part of the professor, so, we decided to start the aplication software, although the time and resourses stimation processes was primitive, we were right in our prediction and we could finish before since we managed have a great plannig for the code development
 Thanks to the monitoring to part of us to get the feedback by our beta users, we could count whit a control of our system and so can present a Best Quali.Para la parte de configuración de softwre utilizamos un motor gráfico para poder realizarlo
+
 ---
 
 ## Good bye?:
